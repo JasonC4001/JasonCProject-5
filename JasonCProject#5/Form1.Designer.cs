@@ -29,42 +29,34 @@
         private void InitializeComponent()
         {
             label1 = new Label();
-            lblPlayer1Name = new Label();
             lblPlayer1Health = new Label();
             lblPlayer1AttackStrength = new Label();
-            txtPlayer1Name = new TextBox();
             txtPlayer1Health = new TextBox();
             txtPlayer1AttackStrength = new TextBox();
-            lblPlayer2Name = new Label();
             lblPlayer2Health = new Label();
             lblPlayer2AttackStrength = new Label();
             lstOut = new ListBox();
             btnCalculateHealth = new Button();
             btnClearAll = new Button();
             btnQuit = new Button();
+            lblPlayer1Name = new Label();
+            txtPlayer1Name = new TextBox();
+            lblPlayer2Name = new Label();
             SuspendLayout();
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.ForeColor = SystemColors.Highlight;
+            label1.Font = new Font("Segoe UI", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label1.ForeColor = Color.Red;
             label1.LiveSetting = System.Windows.Forms.Automation.AutomationLiveSetting.Assertive;
-            label1.Location = new Point(425, 59);
+            label1.Location = new Point(358, 28);
             label1.MinimumSize = new Size(115, 20);
             label1.Name = "label1";
-            label1.Size = new Size(115, 20);
+            label1.Size = new Size(270, 37);
             label1.TabIndex = 0;
             label1.Text = "Trading Card Game ";
             label1.Click += label1_Click;
-            // 
-            // lblPlayer1Name
-            // 
-            lblPlayer1Name.AutoSize = true;
-            lblPlayer1Name.Location = new Point(188, 115);
-            lblPlayer1Name.Name = "lblPlayer1Name";
-            lblPlayer1Name.Size = new Size(94, 15);
-            lblPlayer1Name.TabIndex = 1;
-            lblPlayer1Name.Text = "Player's 1 Name:";
             // 
             // lblPlayer1Health
             // 
@@ -78,25 +70,20 @@
             // lblPlayer1AttackStrength
             // 
             lblPlayer1AttackStrength.AutoSize = true;
-            lblPlayer1AttackStrength.Location = new Point(140, 181);
+            lblPlayer1AttackStrength.Location = new Point(140, 176);
             lblPlayer1AttackStrength.Name = "lblPlayer1AttackStrength";
             lblPlayer1AttackStrength.Size = new Size(147, 15);
             lblPlayer1AttackStrength.TabIndex = 3;
             lblPlayer1AttackStrength.Text = "Player's 1 Attack Strength: ";
             // 
-            // txtPlayer1Name
-            // 
-            txtPlayer1Name.Location = new Point(302, 107);
-            txtPlayer1Name.Name = "txtPlayer1Name";
-            txtPlayer1Name.Size = new Size(100, 23);
-            txtPlayer1Name.TabIndex = 4;
-            // 
             // txtPlayer1Health
             // 
-            txtPlayer1Health.Location = new Point(302, 139);
+            txtPlayer1Health.Location = new Point(302, 144);
             txtPlayer1Health.Name = "txtPlayer1Health";
             txtPlayer1Health.Size = new Size(100, 23);
             txtPlayer1Health.TabIndex = 5;
+            txtPlayer1Health.Enter += txtPlayer1Health_Enter;
+            txtPlayer1Health.Leave += txtPlayer1Health_Leave;
             // 
             // txtPlayer1AttackStrength
             // 
@@ -104,15 +91,8 @@
             txtPlayer1AttackStrength.Name = "txtPlayer1AttackStrength";
             txtPlayer1AttackStrength.Size = new Size(100, 23);
             txtPlayer1AttackStrength.TabIndex = 6;
-            // 
-            // lblPlayer2Name
-            // 
-            lblPlayer2Name.AutoSize = true;
-            lblPlayer2Name.Location = new Point(641, 115);
-            lblPlayer2Name.Name = "lblPlayer2Name";
-            lblPlayer2Name.Size = new Size(97, 15);
-            lblPlayer2Name.TabIndex = 7;
-            lblPlayer2Name.Text = "Player's 2 Name: ";
+            txtPlayer1AttackStrength.Enter += txtPlayer1AttackStrength_Enter;
+            txtPlayer1AttackStrength.Leave += txtPlayer1AttackStrength_Leave;
             // 
             // lblPlayer2Health
             // 
@@ -126,7 +106,7 @@
             // lblPlayer2AttackStrength
             // 
             lblPlayer2AttackStrength.AutoSize = true;
-            lblPlayer2AttackStrength.Location = new Point(591, 181);
+            lblPlayer2AttackStrength.Location = new Point(591, 173);
             lblPlayer2AttackStrength.Name = "lblPlayer2AttackStrength";
             lblPlayer2AttackStrength.Size = new Size(147, 15);
             lblPlayer2AttackStrength.TabIndex = 9;
@@ -141,6 +121,7 @@
             lstOut.Name = "lstOut";
             lstOut.Size = new Size(619, 199);
             lstOut.TabIndex = 10;
+            lstOut.TabStop = false;
             // 
             // btnCalculateHealth
             // 
@@ -150,6 +131,7 @@
             btnCalculateHealth.TabIndex = 11;
             btnCalculateHealth.Text = "Calculate &Player's 1 Health";
             btnCalculateHealth.UseVisualStyleBackColor = true;
+            btnCalculateHealth.Click += btnCalculateHealth_Click;
             // 
             // btnClearAll
             // 
@@ -171,24 +153,55 @@
             btnQuit.UseVisualStyleBackColor = true;
             btnQuit.Click += btnQuit_Click;
             // 
+            // lblPlayer1Name
+            // 
+            lblPlayer1Name.AutoSize = true;
+            lblPlayer1Name.Location = new Point(188, 118);
+            lblPlayer1Name.Name = "lblPlayer1Name";
+            lblPlayer1Name.Size = new Size(94, 15);
+            lblPlayer1Name.TabIndex = 1;
+            lblPlayer1Name.Text = "Player's 1 Name:";
+            lblPlayer1Name.Click += lblPlayer1Name_Click;
+            // 
+            // txtPlayer1Name
+            // 
+            txtPlayer1Name.BackColor = SystemColors.Window;
+            txtPlayer1Name.ForeColor = SystemColors.WindowText;
+            txtPlayer1Name.Location = new Point(302, 115);
+            txtPlayer1Name.Name = "txtPlayer1Name";
+            txtPlayer1Name.Size = new Size(100, 23);
+            txtPlayer1Name.TabIndex = 4;
+            txtPlayer1Name.TextChanged += txtPlayer1Name_TextChanged;
+            txtPlayer1Name.Enter += txtPlayer1Name_Enter;
+            txtPlayer1Name.Leave += txtPlayer1Name_Leave;
+            // 
+            // lblPlayer2Name
+            // 
+            lblPlayer2Name.AutoSize = true;
+            lblPlayer2Name.Location = new Point(638, 118);
+            lblPlayer2Name.Name = "lblPlayer2Name";
+            lblPlayer2Name.Size = new Size(94, 15);
+            lblPlayer2Name.TabIndex = 7;
+            lblPlayer2Name.Text = "Player's 2 Name:";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(991, 551);
+            Controls.Add(lblPlayer2Name);
+            Controls.Add(txtPlayer1Name);
+            Controls.Add(lblPlayer1Name);
             Controls.Add(btnQuit);
             Controls.Add(btnClearAll);
             Controls.Add(btnCalculateHealth);
             Controls.Add(lstOut);
             Controls.Add(lblPlayer2AttackStrength);
             Controls.Add(lblPlayer2Health);
-            Controls.Add(lblPlayer2Name);
             Controls.Add(txtPlayer1AttackStrength);
             Controls.Add(txtPlayer1Health);
-            Controls.Add(txtPlayer1Name);
             Controls.Add(lblPlayer1AttackStrength);
             Controls.Add(lblPlayer1Health);
-            Controls.Add(lblPlayer1Name);
             Controls.Add(label1);
             Name = "Form1";
             Text = "Form1";
@@ -199,18 +212,18 @@
         #endregion
 
         public Label label1;
-        private Label lblPlayer1Name;
         private Label lblPlayer1Health;
         private Label lblPlayer1AttackStrength;
-        private TextBox txtPlayer1Name;
         private TextBox txtPlayer1Health;
         private TextBox txtPlayer1AttackStrength;
-        private Label lblPlayer2Name;
         private Label lblPlayer2Health;
         private Label lblPlayer2AttackStrength;
         private ListBox lstOut;
         private Button btnCalculateHealth;
         private Button btnClearAll;
         private Button btnQuit;
+        private Label lblPlayer1Name;
+        private TextBox txtPlayer1Name;
+        private Label lblPlayer2Name;
     }
 }

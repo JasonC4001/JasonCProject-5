@@ -34,7 +34,7 @@ namespace JasonCProject_5
 
         private void btnCalculateHealth_Click(object sender, EventArgs e)
         {
-
+            //Just Calculate the starting health of both players, then add or subtract from it, depending on each player's attack strength
             double healthRate = .0075;
             double health, totalHealth, healthAmount;
             string Player1Name;

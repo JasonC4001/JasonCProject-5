@@ -122,6 +122,7 @@
             lstOut.Size = new Size(619, 199);
             lstOut.TabIndex = 10;
             lstOut.TabStop = false;
+            lstOut.SelectedIndexChanged += lstOut_SelectedIndexChanged;
             // 
             // btnCalculateHealth
             // 

@@ -5,6 +5,7 @@ namespace JasonCProject_5
         public Form1()
         {
             InitializeComponent();
+
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -33,11 +34,30 @@ namespace JasonCProject_5
 
         private void btnCalculateHealth_Click(object sender, EventArgs e)
         {
+
+            double healthRate = .0075;
+            double health, totalHealth, healthAmount;
+            string Player1Name;
+
             // input
+
+            health = double.Parse(txtPlayer1Health.Text);
+            Player1Name = txtPlayer1Name.Text;
+
+
+            // processing
+
+            healthAmount = health * healthRate;
+            totalHealth = health + healthAmount;
+
 
 
             // output 
 
+            lstOut.Items.Add("Player's 1 Name is: " + Player1Name);
+            lstOut.Items.Add("Health is: " + health);
+            lstOut.Items.Add("Health Amount is: " + healthAmount);
+            lstOut.Items.Add("Total Health is: " + totalHealth);
 
             // This changes the focus to the clear button
 
@@ -85,7 +105,12 @@ namespace JasonCProject_5
 
         private void txtPlayer1AttackStrength_Leave(object sender, EventArgs e)
         {
-            txtPlayer1AttackStrength.BackColor= SystemColors.Window;
+            txtPlayer1AttackStrength.BackColor = SystemColors.Window;
+        }
+
+        private void lstOut_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

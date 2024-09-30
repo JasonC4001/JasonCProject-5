@@ -34,31 +34,34 @@ namespace JasonCProject_5
 
         private void btnCalculateHealth_Click(object sender, EventArgs e)
         {
-            //Just Calculate the starting health of both players, then add or subtract from it, depending on each player's attack strength
-            double Player2Strength = .050;
+            //Calculate the starting health of both players, then add or subtract depending on each player's attack strength.
+            //double p2Strength = .050;
             double health, totalHealth, damageTaken;
-            string Player1Name;
+            string p1Name;
+            var p2Strength =23;
 
             // input
 
             health = double.Parse(txtPlayer1Health.Text);
-            Player1Name = txtPlayer1Name.Text;
-
+            p1Name = txtPlayer1Name.Text;
 
             // processing
 
-            damageTaken = health * Player2Strength;
+            damageTaken = p2Strength;
             totalHealth = health - damageTaken;
 
+            
 
+            // output
 
-            // output 
+            lstOut.Items.Add("Player's 1 Name is: " + p1Name);
+            lstOut.Items.Add(p1Name + "'s health is: " + health.ToString("N2"));
+            lstOut.Items.Add(p1Name + " has taken: " + damageTaken.ToString("N2") + " damage from Player 2");
+            lstOut.Items.Add("Total Health is: " + totalHealth.ToString("N2"));
 
-            lstOut.Items.Add("Player's 1 Name is: " + Player1Name);
-            lstOut.Items.Add("Health is: " + health);
-            lstOut.Items.Add("You've taken: " + damageTaken + " damage from Player 2");
-            lstOut.Items.Add("Total Health is: " + totalHealth);
-
+            
+            
+            
             // This changes the focus to the clear button
 
             btnClearAll.Focus();

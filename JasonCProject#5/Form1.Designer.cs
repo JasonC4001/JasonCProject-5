@@ -97,7 +97,7 @@
             // lblPlayer2Health
             // 
             lblPlayer2Health.AutoSize = true;
-            lblPlayer2Health.Location = new Point(638, 147);
+            lblPlayer2Health.Location = new Point(632, 147);
             lblPlayer2Health.Name = "lblPlayer2Health";
             lblPlayer2Health.Size = new Size(100, 15);
             lblPlayer2Health.TabIndex = 8;

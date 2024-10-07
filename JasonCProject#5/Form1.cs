@@ -36,40 +36,49 @@ namespace JasonCProject_5
         {
             //Calculate the starting health of both players, then add or subtract depending on each player's attack strength.
             //double p2Strength = .050;
-            double health, totalHealth, damageTaken;
+            double health, strength, totalHealth, damageTaken;
             string p1Name;
-            var p2Strength =23;
+            bool healthValid, strengthValid;
+
+            // player 2 strength for now  
+            var p2Strength = 23;
+
 
             // input
-
-            health = double.Parse(txtPlayer1Health.Text);
+            //health = double.Parse(txtPlayer1Health.Text);
             p1Name = txtPlayer1Name.Text;
 
-            // processing
 
+            // Parse converts string to double
+            // Convert Parse to TryParse
+            healthValid = double.TryParse(txtPlayer1Health.Text, out health);
+            strengthValid = double.TryParse(txtPlayer1AttackStrength.Text, out strength);
+
+
+            // processing
             damageTaken = p2Strength;
             totalHealth = health - damageTaken;
 
-            
 
             // output
+            if (healthValid && strengthValid)
+            {
+                lstOut.Items.Add("Player's 1 Name is: " + p1Name);
+                lstOut.Items.Add(p1Name + "'s health is: " + health.ToString("N2"));
+                lstOut.Items.Add(p1Name + "'s strength is: " + strength.ToString("N2"));
+                lstOut.Items.Add(p1Name + " has taken: " + damageTaken.ToString("N2") + " damage from Player 2");
+                lstOut.Items.Add("Total Health is: " + totalHealth.ToString("N2"));
 
-            lstOut.Items.Add("Player's 1 Name is: " + p1Name);
-            lstOut.Items.Add(p1Name + "'s health is: " + health.ToString("N2"));
-            lstOut.Items.Add(p1Name + " has taken: " + damageTaken.ToString("N2") + " damage from Player 2");
-            lstOut.Items.Add("Total Health is: " + totalHealth.ToString("N2"));
-
-            
-            
-            
+            }
+            else
+            {
+                lstOut.Items.Add("Invalid response, please enter a numeric response for health and strength.");
+            }
+          
             // This changes the focus to the clear button
 
             btnClearAll.Focus();
-
-
         }
-
-
 
         private void txtPlayer1Name_TextChanged(object sender, EventArgs e)
         {

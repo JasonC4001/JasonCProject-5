@@ -1,3 +1,5 @@
+using System.Diagnostics.Eventing.Reader;
+
 namespace JasonCProject_5
 {
     public partial class Form1 : Form
@@ -20,6 +22,10 @@ namespace JasonCProject_5
 
         private void btnQuit_Click(object sender, EventArgs e)
         {
+            DialogResult ButtonSelected;
+            ButtonSelected = MessageBox.Show("Are you sure you want to Quit?", "Quitting...", MessageBoxButtons.YesNo, MessageBoxIcon.Question   );
+
+            if (ButtonSelected == DialogResult.Yes)
             this.Close();
         }
 
@@ -41,10 +47,10 @@ namespace JasonCProject_5
             bool healthValid, strengthValid;
 
             // player 2 strength for now  
-            var p2Strength = 23;
+            double p2Strength = 5.23;
 
 
-            // input
+            // Input
             //health = double.Parse(txtPlayer1Health.Text);
             p1Name = txtPlayer1Name.Text;
 
@@ -55,12 +61,12 @@ namespace JasonCProject_5
             strengthValid = double.TryParse(txtPlayer1AttackStrength.Text, out strength);
 
 
-            // processing
+            // Processing
             damageTaken = p2Strength;
             totalHealth = health - damageTaken;
 
 
-            // output
+            // Output
             if (healthValid && strengthValid)
             {
                 lstOut.Items.Add("Player's 1 Name is: " + p1Name);
@@ -70,11 +76,19 @@ namespace JasonCProject_5
                 lstOut.Items.Add("Total Health is: " + totalHealth.ToString("N2"));
 
             }
+
+            // Else-If's statements whether Player 1 or 2 wins/loses, and both players draw or loses.
+
+
+
+            
+
+            // Else statement if user enters an invalid response. 
             else
             {
                 lstOut.Items.Add("Invalid response, please enter a numeric response for health and strength.");
             }
-          
+            
             // This changes the focus to the clear button
 
             btnClearAll.Focus();

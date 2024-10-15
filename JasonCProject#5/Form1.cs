@@ -23,10 +23,10 @@ namespace JasonCProject_5
         private void btnQuit_Click(object sender, EventArgs e)
         {
             DialogResult ButtonSelected;
-            ButtonSelected = MessageBox.Show("Are you sure you want to Quit?", "Quitting...", MessageBoxButtons.YesNo, MessageBoxIcon.Question   );
+            ButtonSelected = MessageBox.Show("Are you sure you want to Quit?", "Quitting...", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
 
             if (ButtonSelected == DialogResult.Yes)
-            this.Close();
+                this.Close();
         }
 
         private void btnClearAll_Click(object sender, EventArgs e)
@@ -42,53 +42,58 @@ namespace JasonCProject_5
         {
             //Calculate the starting health of both players, then add or subtract depending on each player's attack strength.
             //double p2Strength = .050;
-            double health, strength, totalHealth, damageTaken;
-            string p1Name;
+            double p1Health, strength, p1HealthLeft, damageTaken;
+            string p1Name, p2Name;
             bool healthValid, strengthValid;
 
-            // player 2 strength for now  
-            double p2Strength = 5.23;
-
+            // player 2 strength for now 
+            double p2Strength = 12;
 
             // Input
             //health = double.Parse(txtPlayer1Health.Text);
             p1Name = txtPlayer1Name.Text;
+            p2Name = txtPlayer2Name.Text;
 
 
             // Parse converts string to double
             // Convert Parse to TryParse
-            healthValid = double.TryParse(txtPlayer1Health.Text, out health);
+            healthValid = double.TryParse(txtPlayer1Health.Text, out p1Health);
             strengthValid = double.TryParse(txtPlayer1AttackStrength.Text, out strength);
 
 
             // Processing
             damageTaken = p2Strength;
-            totalHealth = health - damageTaken;
+            p1HealthLeft = p1Health - damageTaken;
 
 
             // Output
             if (healthValid && strengthValid)
             {
                 lstOut.Items.Add("Player's 1 Name is: " + p1Name);
-                lstOut.Items.Add(p1Name + "'s health is: " + health.ToString("N2"));
+                lstOut.Items.Add(p1Name + "'s health is: " + p1Health.ToString("N2"));
                 lstOut.Items.Add(p1Name + "'s strength is: " + strength.ToString("N2"));
                 lstOut.Items.Add(p1Name + " has taken: " + damageTaken.ToString("N2") + " damage from Player 2");
-                lstOut.Items.Add("Total Health is: " + totalHealth.ToString("N2"));
+                lstOut.Items.Add("Total Health is: " + p1HealthLeft.ToString("N2"));
 
             }
-
-            // Else-If's statements whether Player 1 or 2 wins/loses, and both players draw or loses.
-
-
-
-            
 
             // Else statement if user enters an invalid response. 
             else
             {
                 lstOut.Items.Add("Invalid response, please enter a numeric response for health and strength.");
             }
-            
+
+            // If's and Else-If's statements whether Player 1 or 2 wins/loses, and both players draw or loses.           
+
+            if (p1HealthLeft <= 0)
+            {
+                lstOut.Items.Add("Player 2 Wins! Player 1 has no remaining health.");
+            }
+
+            //else if (p1HealthLeft == p2HealthLeft) {}
+
+
+
             // This changes the focus to the clear button
 
             btnClearAll.Focus();
@@ -135,6 +140,31 @@ namespace JasonCProject_5
         }
 
         private void lstOut_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+            rdo1.Checked = true;
+
+        }
+
+        private void rdo1_CheckedChanged(object sender, EventArgs e)
+        {
+            if (rdo1.Checked)
+            {
+                
+            }
+        }
+
+        private void rdo2_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void rdo3_CheckedChanged(object sender, EventArgs e)
         {
 
         }

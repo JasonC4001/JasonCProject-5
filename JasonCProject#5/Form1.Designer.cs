@@ -42,6 +42,14 @@
             lblPlayer1Name = new Label();
             txtPlayer1Name = new TextBox();
             lblPlayer2Name = new Label();
+            txtPlayer2Name = new TextBox();
+            txtPlayer2Health = new TextBox();
+            txtPlayer2AttackStrength = new TextBox();
+            groupBox1 = new GroupBox();
+            rdo3 = new RadioButton();
+            rdo2 = new RadioButton();
+            rdo1 = new RadioButton();
+            groupBox1.SuspendLayout();
             SuspendLayout();
             // 
             // label1
@@ -50,7 +58,7 @@
             label1.Font = new Font("Segoe UI", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label1.ForeColor = Color.Red;
             label1.LiveSetting = System.Windows.Forms.Automation.AutomationLiveSetting.Assertive;
-            label1.Location = new Point(358, 28);
+            label1.Location = new Point(353, 9);
             label1.MinimumSize = new Size(115, 20);
             label1.Name = "label1";
             label1.Size = new Size(270, 37);
@@ -61,7 +69,7 @@
             // lblPlayer1Health
             // 
             lblPlayer1Health.AutoSize = true;
-            lblPlayer1Health.Location = new Point(185, 147);
+            lblPlayer1Health.Location = new Point(173, 92);
             lblPlayer1Health.Name = "lblPlayer1Health";
             lblPlayer1Health.Size = new Size(97, 15);
             lblPlayer1Health.TabIndex = 2;
@@ -70,7 +78,7 @@
             // lblPlayer1AttackStrength
             // 
             lblPlayer1AttackStrength.AutoSize = true;
-            lblPlayer1AttackStrength.Location = new Point(140, 176);
+            lblPlayer1AttackStrength.Location = new Point(128, 121);
             lblPlayer1AttackStrength.Name = "lblPlayer1AttackStrength";
             lblPlayer1AttackStrength.Size = new Size(147, 15);
             lblPlayer1AttackStrength.TabIndex = 3;
@@ -78,7 +86,7 @@
             // 
             // txtPlayer1Health
             // 
-            txtPlayer1Health.Location = new Point(302, 144);
+            txtPlayer1Health.Location = new Point(290, 89);
             txtPlayer1Health.Name = "txtPlayer1Health";
             txtPlayer1Health.Size = new Size(100, 23);
             txtPlayer1Health.TabIndex = 5;
@@ -87,7 +95,7 @@
             // 
             // txtPlayer1AttackStrength
             // 
-            txtPlayer1AttackStrength.Location = new Point(302, 173);
+            txtPlayer1AttackStrength.Location = new Point(290, 121);
             txtPlayer1AttackStrength.Name = "txtPlayer1AttackStrength";
             txtPlayer1AttackStrength.Size = new Size(100, 23);
             txtPlayer1AttackStrength.TabIndex = 6;
@@ -97,7 +105,7 @@
             // lblPlayer2Health
             // 
             lblPlayer2Health.AutoSize = true;
-            lblPlayer2Health.Location = new Point(632, 147);
+            lblPlayer2Health.Location = new Point(591, 92);
             lblPlayer2Health.Name = "lblPlayer2Health";
             lblPlayer2Health.Size = new Size(100, 15);
             lblPlayer2Health.TabIndex = 8;
@@ -106,7 +114,7 @@
             // lblPlayer2AttackStrength
             // 
             lblPlayer2AttackStrength.AutoSize = true;
-            lblPlayer2AttackStrength.Location = new Point(591, 173);
+            lblPlayer2AttackStrength.Location = new Point(544, 121);
             lblPlayer2AttackStrength.Name = "lblPlayer2AttackStrength";
             lblPlayer2AttackStrength.Size = new Size(147, 15);
             lblPlayer2AttackStrength.TabIndex = 9;
@@ -117,7 +125,7 @@
             // 
             lstOut.FormattingEnabled = true;
             lstOut.ItemHeight = 15;
-            lstOut.Location = new Point(188, 224);
+            lstOut.Location = new Point(188, 250);
             lstOut.Name = "lstOut";
             lstOut.Size = new Size(619, 199);
             lstOut.TabIndex = 10;
@@ -126,7 +134,7 @@
             // 
             // btnCalculateHealth
             // 
-            btnCalculateHealth.Location = new Point(131, 476);
+            btnCalculateHealth.Location = new Point(140, 476);
             btnCalculateHealth.Name = "btnCalculateHealth";
             btnCalculateHealth.Size = new Size(194, 23);
             btnCalculateHealth.TabIndex = 11;
@@ -136,7 +144,7 @@
             // 
             // btnClearAll
             // 
-            btnClearAll.Location = new Point(387, 476);
+            btnClearAll.Location = new Point(404, 476);
             btnClearAll.Name = "btnClearAll";
             btnClearAll.Size = new Size(194, 23);
             btnClearAll.TabIndex = 12;
@@ -146,7 +154,7 @@
             // 
             // btnQuit
             // 
-            btnQuit.Location = new Point(638, 476);
+            btnQuit.Location = new Point(661, 476);
             btnQuit.Name = "btnQuit";
             btnQuit.Size = new Size(194, 23);
             btnQuit.TabIndex = 13;
@@ -157,7 +165,7 @@
             // lblPlayer1Name
             // 
             lblPlayer1Name.AutoSize = true;
-            lblPlayer1Name.Location = new Point(188, 118);
+            lblPlayer1Name.Location = new Point(176, 63);
             lblPlayer1Name.Name = "lblPlayer1Name";
             lblPlayer1Name.Size = new Size(94, 15);
             lblPlayer1Name.TabIndex = 1;
@@ -168,7 +176,7 @@
             // 
             txtPlayer1Name.BackColor = SystemColors.Window;
             txtPlayer1Name.ForeColor = SystemColors.WindowText;
-            txtPlayer1Name.Location = new Point(302, 115);
+            txtPlayer1Name.Location = new Point(290, 60);
             txtPlayer1Name.Name = "txtPlayer1Name";
             txtPlayer1Name.Size = new Size(100, 23);
             txtPlayer1Name.TabIndex = 4;
@@ -179,17 +187,96 @@
             // lblPlayer2Name
             // 
             lblPlayer2Name.AutoSize = true;
-            lblPlayer2Name.Location = new Point(638, 118);
+            lblPlayer2Name.Location = new Point(593, 63);
             lblPlayer2Name.Name = "lblPlayer2Name";
             lblPlayer2Name.Size = new Size(94, 15);
             lblPlayer2Name.TabIndex = 7;
             lblPlayer2Name.Text = "Player's 2 Name:";
+            // 
+            // txtPlayer2Name
+            // 
+            txtPlayer2Name.Location = new Point(707, 60);
+            txtPlayer2Name.Name = "txtPlayer2Name";
+            txtPlayer2Name.ReadOnly = true;
+            txtPlayer2Name.Size = new Size(100, 23);
+            txtPlayer2Name.TabIndex = 14;
+            txtPlayer2Name.Text = "Bot 1";
+            // 
+            // txtPlayer2Health
+            // 
+            txtPlayer2Health.Location = new Point(707, 89);
+            txtPlayer2Health.Name = "txtPlayer2Health";
+            txtPlayer2Health.ReadOnly = true;
+            txtPlayer2Health.Size = new Size(100, 23);
+            txtPlayer2Health.TabIndex = 15;
+            txtPlayer2Health.Text = "46";
+            // 
+            // txtPlayer2AttackStrength
+            // 
+            txtPlayer2AttackStrength.Location = new Point(707, 121);
+            txtPlayer2AttackStrength.Name = "txtPlayer2AttackStrength";
+            txtPlayer2AttackStrength.ReadOnly = true;
+            txtPlayer2AttackStrength.Size = new Size(100, 23);
+            txtPlayer2AttackStrength.TabIndex = 16;
+            txtPlayer2AttackStrength.Text = "12";
+            // 
+            // groupBox1
+            // 
+            groupBox1.Controls.Add(rdo3);
+            groupBox1.Controls.Add(rdo2);
+            groupBox1.Controls.Add(rdo1);
+            groupBox1.Location = new Point(66, 162);
+            groupBox1.Name = "groupBox1";
+            groupBox1.Size = new Size(890, 71);
+            groupBox1.TabIndex = 17;
+            groupBox1.TabStop = false;
+            groupBox1.Text = "Player's 1 Power Ups";
+            // 
+            // rdo3
+            // 
+            rdo3.AutoSize = true;
+            rdo3.Location = new Point(647, 22);
+            rdo3.Name = "rdo3";
+            rdo3.Size = new Size(115, 19);
+            rdo3.TabIndex = 2;
+            rdo3.TabStop = true;
+            rdo3.Text = "Perk 3: No Power";
+            rdo3.UseVisualStyleBackColor = true;
+            rdo3.CheckedChanged += rdo3_CheckedChanged;
+            // 
+            // rdo2
+            // 
+            rdo2.AutoSize = true;
+            rdo2.Location = new Point(377, 22);
+            rdo2.Name = "rdo2";
+            rdo2.Size = new Size(133, 19);
+            rdo2.TabIndex = 1;
+            rdo2.TabStop = true;
+            rdo2.Text = "Perk 2: Add Strength";
+            rdo2.UseVisualStyleBackColor = true;
+            rdo2.CheckedChanged += rdo2_CheckedChanged;
+            // 
+            // rdo1
+            // 
+            rdo1.AutoSize = true;
+            rdo1.Location = new Point(107, 22);
+            rdo1.Name = "rdo1";
+            rdo1.Size = new Size(123, 19);
+            rdo1.TabIndex = 0;
+            rdo1.TabStop = true;
+            rdo1.Text = "Perk 1: Add Health";
+            rdo1.UseVisualStyleBackColor = true;
+            rdo1.CheckedChanged += rdo1_CheckedChanged;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(991, 551);
+            Controls.Add(groupBox1);
+            Controls.Add(txtPlayer2AttackStrength);
+            Controls.Add(txtPlayer2Health);
+            Controls.Add(txtPlayer2Name);
             Controls.Add(lblPlayer2Name);
             Controls.Add(txtPlayer1Name);
             Controls.Add(lblPlayer1Name);
@@ -206,6 +293,9 @@
             Controls.Add(label1);
             Name = "Form1";
             Text = "Form1";
+            Load += Form1_Load;
+            groupBox1.ResumeLayout(false);
+            groupBox1.PerformLayout();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -226,5 +316,12 @@
         private Label lblPlayer1Name;
         private TextBox txtPlayer1Name;
         private Label lblPlayer2Name;
+        private TextBox txtPlayer2Name;
+        private TextBox txtPlayer2Health;
+        private TextBox txtPlayer2AttackStrength;
+        private GroupBox groupBox1;
+        private RadioButton rdo3;
+        private RadioButton rdo2;
+        private RadioButton rdo1;
     }
 }

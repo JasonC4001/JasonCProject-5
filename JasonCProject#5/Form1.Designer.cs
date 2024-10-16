@@ -46,9 +46,9 @@
             txtPlayer2Health = new TextBox();
             txtPlayer2AttackStrength = new TextBox();
             groupBox1 = new GroupBox();
-            rdo3 = new RadioButton();
-            rdo2 = new RadioButton();
-            rdo1 = new RadioButton();
+            rdoNormal = new RadioButton();
+            rdoStrength = new RadioButton();
+            rdoHealth = new RadioButton();
             groupBox1.SuspendLayout();
             SuspendLayout();
             // 
@@ -222,51 +222,52 @@
             // 
             // groupBox1
             // 
-            groupBox1.Controls.Add(rdo3);
-            groupBox1.Controls.Add(rdo2);
-            groupBox1.Controls.Add(rdo1);
+            groupBox1.Controls.Add(rdoNormal);
+            groupBox1.Controls.Add(rdoStrength);
+            groupBox1.Controls.Add(rdoHealth);
             groupBox1.Location = new Point(66, 162);
             groupBox1.Name = "groupBox1";
             groupBox1.Size = new Size(890, 71);
             groupBox1.TabIndex = 17;
             groupBox1.TabStop = false;
-            groupBox1.Text = "Player's 1 Power Ups";
+            groupBox1.Text = "Player 1 Power Ups";
+            groupBox1.Enter += groupBox1_Enter;
             // 
-            // rdo3
+            // rdoNormal
             // 
-            rdo3.AutoSize = true;
-            rdo3.Location = new Point(647, 22);
-            rdo3.Name = "rdo3";
-            rdo3.Size = new Size(115, 19);
-            rdo3.TabIndex = 2;
-            rdo3.TabStop = true;
-            rdo3.Text = "Perk 3: No Power";
-            rdo3.UseVisualStyleBackColor = true;
-            rdo3.CheckedChanged += rdo3_CheckedChanged;
+            rdoNormal.AutoSize = true;
+            rdoNormal.Location = new Point(647, 22);
+            rdoNormal.Name = "rdoNormal";
+            rdoNormal.Size = new Size(115, 19);
+            rdoNormal.TabIndex = 2;
+            rdoNormal.TabStop = true;
+            rdoNormal.Text = "Perk 3: No Power";
+            rdoNormal.UseVisualStyleBackColor = true;
+            rdoNormal.CheckedChanged += rdo3_CheckedChanged;
             // 
-            // rdo2
+            // rdoStrength
             // 
-            rdo2.AutoSize = true;
-            rdo2.Location = new Point(377, 22);
-            rdo2.Name = "rdo2";
-            rdo2.Size = new Size(133, 19);
-            rdo2.TabIndex = 1;
-            rdo2.TabStop = true;
-            rdo2.Text = "Perk 2: Add Strength";
-            rdo2.UseVisualStyleBackColor = true;
-            rdo2.CheckedChanged += rdo2_CheckedChanged;
+            rdoStrength.AutoSize = true;
+            rdoStrength.Location = new Point(377, 22);
+            rdoStrength.Name = "rdoStrength";
+            rdoStrength.Size = new Size(133, 19);
+            rdoStrength.TabIndex = 1;
+            rdoStrength.TabStop = true;
+            rdoStrength.Text = "Perk 2: Add Strength";
+            rdoStrength.UseVisualStyleBackColor = true;
+            rdoStrength.CheckedChanged += rdo2_CheckedChanged;
             // 
-            // rdo1
+            // rdoHealth
             // 
-            rdo1.AutoSize = true;
-            rdo1.Location = new Point(107, 22);
-            rdo1.Name = "rdo1";
-            rdo1.Size = new Size(123, 19);
-            rdo1.TabIndex = 0;
-            rdo1.TabStop = true;
-            rdo1.Text = "Perk 1: Add Health";
-            rdo1.UseVisualStyleBackColor = true;
-            rdo1.CheckedChanged += rdo1_CheckedChanged;
+            rdoHealth.AutoSize = true;
+            rdoHealth.Location = new Point(107, 22);
+            rdoHealth.Name = "rdoHealth";
+            rdoHealth.Size = new Size(123, 19);
+            rdoHealth.TabIndex = 0;
+            rdoHealth.TabStop = true;
+            rdoHealth.Text = "Perk 1: Add Health";
+            rdoHealth.UseVisualStyleBackColor = true;
+            rdoHealth.CheckedChanged += rdo1_CheckedChanged;
             // 
             // Form1
             // 
@@ -320,8 +321,8 @@
         private TextBox txtPlayer2Health;
         private TextBox txtPlayer2AttackStrength;
         private GroupBox groupBox1;
-        private RadioButton rdo3;
-        private RadioButton rdo2;
-        private RadioButton rdo1;
+        private RadioButton rdoNormal;
+        private RadioButton rdoStrength;
+        private RadioButton rdoHealth;
     }
 }

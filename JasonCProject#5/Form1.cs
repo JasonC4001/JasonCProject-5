@@ -1,5 +1,5 @@
 using System.Diagnostics.Eventing.Reader;
-//Jason Chen
+//Jason Chen - ICA 6
 
 namespace JasonCProject_5
 {
@@ -9,6 +9,8 @@ namespace JasonCProject_5
         const string p1_HEALTH = "Add Health";
         const string p1_STRENGTH = "Add Strength";
         const string p1_NORMAL = "No Power Ups";
+
+        private string TradingGameLog = "TradingGameLog.txt";
 
         public Form1()
         {
@@ -60,8 +62,11 @@ namespace JasonCProject_5
             string p1Name, p2Name;
             bool healthValid, strengthValid;
 
-            // player 2 strength for now 
+            // player 2 strength for now
             double p2Strength = 12;
+
+            //declaring the StreamWriter
+            StreamWriter sw;
 
             //Input
             p1Name = txtPlayer1Name.Text;
@@ -100,20 +105,34 @@ namespace JasonCProject_5
                 p1DamageTaken = p2Strength;
                 p1Strength += sPowerUpAmount;
                 p1HealthLeft = hPowerUpAmount + (p1Health - p1DamageTaken);
-                
+                p2Health -= p1Strength;
 
                 //output
                 lstOut.Items.Add("Player's 1 Name is: " + p1Name);
                 lstOut.Items.Add("Power Up Selected: " + PowerUps);
                 lstOut.Items.Add("Power Up Amount (Health): " + hPowerUpAmount);
                 lstOut.Items.Add("Power Up Amount (Strength): " + sPowerUpAmount);
-                lstOut.Items.Add("");
 
                 lstOut.Items.Add(p1Name + "'s health is: " + p1Health.ToString("N2"));
                 lstOut.Items.Add(p1Name + "'s strength is: " + p1Strength.ToString("N2"));
                 lstOut.Items.Add(p1Name + " has taken: " + p1DamageTaken.ToString("N2") + " damage from Player 2");
                 lstOut.Items.Add("Total Health is: " + p1HealthLeft.ToString("N2"));
                 lstOut.Items.Add("");
+
+
+                sw = File.AppendText(TradingGameLog);
+                sw.WriteLine("************Beginning of Game Log at " + DateTime.Now.ToString("G") + "************");
+                sw.WriteLine("Player's 1 Name is: " + p1Name);
+                sw.WriteLine("Power Up Selected: " + PowerUps);
+                sw.WriteLine("Power Up Amount (Health): " + hPowerUpAmount);
+                sw.WriteLine("Power Up Amount (Strength): " + sPowerUpAmount);
+                sw.WriteLine(p1Name + "'s health is: " + p1Health.ToString("N2"));
+                sw.WriteLine(p1Name + "'s strength is: " + p1Strength.ToString("N2"));
+                sw.WriteLine(p1Name + " has taken: " + p1DamageTaken.ToString("N2") + " damage from Player 2");
+                sw.WriteLine("Total Health is: " + p1HealthLeft.ToString("N2"));
+                sw.WriteLine("");
+
+                sw.Close();
 
             }
 
@@ -124,10 +143,22 @@ namespace JasonCProject_5
                 lstOut.Items.Add("Invalid response, please enter a numeric response for health and strength.");
             }
 
+
+            /*
+            //SAMPLE CODE (DON'T KEEP IN CODE) 
+            DateTime t = DateTime.Now;
+            lstOut.Items.Add(DateTime.Now.ToString("d"));
+            lstOut.Items.Add(DateTime.Now.ToString("f"));
+            lstOut.Items.Add(DateTime.Now.ToString("G"));
+            */
+
+
+
+
             // If's and Else-If's statements whether Player 1 or 2 wins/loses, and both players draw or loses.           
             //if (p1HealthLeft <= 0)
             //{
-                //lstOut.Items.Add("Player 2 Win! Player 1 has no remaining health");
+            //lstOut.Items.Add("Player 2 Win! Player 1 has no remaining health");
             //}
 
             //else if (p1HealthLeft == p2HealthLeft)

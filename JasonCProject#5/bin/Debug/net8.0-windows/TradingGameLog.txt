@@ -198,3 +198,13 @@ jason's strength is: 40.00
 jason has taken: 12.00 damage from Player 2
 Total Health is: 7.00
 
+************Beginning of Game Log at 10/30/2024 12:10:32 PM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 20
+Power Up Amount (Strength): 0
+jason's health is: 10.00
+jason's strength is: 10.00
+jason has taken: 12.00 damage from Player 2
+Total Health is: 18.00
+

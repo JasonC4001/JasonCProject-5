@@ -6,9 +6,9 @@ namespace JasonCProject_5
     public partial class Form1 : Form
     {
         private string PowerUps;
-        const string p1_HEALTH = "Add Health";
-        const string p1_STRENGTH = "Add Strength";
-        const string p1_NORMAL = "No Power Ups";
+        const string P1_HEALTH = "Add Health";
+        const string P1_STRENGTH = "Add Strength";
+        const string P1_NORMAL = "No Power Ups";
         private string TradingGameLog = "TradingGameLog.txt";
         private string CardGameConfig = "CardGameConfig.txt";
 
@@ -92,13 +92,13 @@ namespace JasonCProject_5
             {
                 switch (PowerUps)
                 {
-                    case p1_HEALTH:
+                    case P1_HEALTH:
                         hPowerUpAmount = HealthPowerUpAmount;
                         break;
-                    case p1_STRENGTH:
+                    case P1_STRENGTH:
                         sPowerUpAmount = StrengthPowerUpAmount;
                         break;
-                    case p1_NORMAL:
+                    case P1_NORMAL:
                         nPowerUpAmount = NormalPowerUpAmount;
                         break;
                     default:
@@ -261,7 +261,7 @@ namespace JasonCProject_5
         {
             if (rdoHealth.Checked)
             {
-                PowerUps  = p1_HEALTH;
+                PowerUps  = P1_HEALTH;
             }
         }
 
@@ -269,7 +269,7 @@ namespace JasonCProject_5
         {
             if (rdoStrength.Checked)
             {
-                PowerUps = p1_STRENGTH;
+                PowerUps = P1_STRENGTH;
             }
         }
 
@@ -277,7 +277,7 @@ namespace JasonCProject_5
         {
             if (rdoNormal.Checked)
             {
-                PowerUps = p1_NORMAL;
+                PowerUps = P1_NORMAL;
             }
         }
 

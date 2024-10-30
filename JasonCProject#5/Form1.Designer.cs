@@ -49,6 +49,7 @@
             rdoNormal = new RadioButton();
             rdoStrength = new RadioButton();
             rdoHealth = new RadioButton();
+            openFileDialog1 = new OpenFileDialog();
             groupBox1.SuspendLayout();
             SuspendLayout();
             // 
@@ -269,6 +270,10 @@
             rdoHealth.UseVisualStyleBackColor = true;
             rdoHealth.CheckedChanged += rdo1_CheckedChanged;
             // 
+            // openFileDialog1
+            // 
+            openFileDialog1.FileName = "openFileDialog1";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -324,5 +329,6 @@
         private RadioButton rdoNormal;
         private RadioButton rdoStrength;
         private RadioButton rdoHealth;
+        private OpenFileDialog openFileDialog1;
     }
 }

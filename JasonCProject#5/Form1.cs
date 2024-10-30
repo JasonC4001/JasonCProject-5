@@ -9,8 +9,12 @@ namespace JasonCProject_5
         const string p1_HEALTH = "Add Health";
         const string p1_STRENGTH = "Add Strength";
         const string p1_NORMAL = "No Power Ups";
-
         private string TradingGameLog = "TradingGameLog.txt";
+        private string CardGameConfig = "CardGameConfig.txt";
+
+        private double HealthPowerUpAmount = 10;
+        private double StrengthPowerUpAmount = 15;
+        private double NormalPowerUpAmount = 0;
 
         public Form1()
         {
@@ -58,6 +62,7 @@ namespace JasonCProject_5
             // h = Health, s = Strength
             double hPowerUpAmount = 0;
             double sPowerUpAmount = 0;
+            double nPowerUpAmount = 0;
 
             string p1Name, p2Name;
             bool healthValid, strengthValid;
@@ -88,13 +93,13 @@ namespace JasonCProject_5
                 switch (PowerUps)
                 {
                     case p1_HEALTH:
-                        hPowerUpAmount = 10;
+                        hPowerUpAmount = HealthPowerUpAmount;
                         break;
                     case p1_STRENGTH:
-                        sPowerUpAmount = 15;
+                        sPowerUpAmount = StrengthPowerUpAmount;
                         break;
                     case p1_NORMAL:
-                        hPowerUpAmount = 0;
+                        nPowerUpAmount = NormalPowerUpAmount;
                         break;
                     default:
                         lstOut.Items.Add("Error; this should never happen.");
@@ -220,7 +225,40 @@ namespace JasonCProject_5
         {
 
             rdoHealth.Checked = true;
+            StreamReader reader;
+            bool valValid;
+            bool fileBad = true;
 
+            do
+            {
+                try
+                {
+                    reader = File.OpenText(CardGameConfig);
+                    fileBad = false;
+
+                    valValid = double.TryParse(reader.ReadLine(), out HealthPowerUpAmount);
+
+                    valValid = double.TryParse(reader.ReadLine(), out StrengthPowerUpAmount);
+
+                    valValid = double.TryParse(reader.ReadLine(), out NormalPowerUpAmount);
+
+                    reader.Close();
+
+                }
+                catch (FileNotFoundException ex)
+                {
+
+                    MessageBox.Show("The configuration file was not found. Please select a different file.\n Error Message was: " +
+                        ex.Message);
+                    openFileDialog1.InitialDirectory = Application.StartupPath;
+                    openFileDialog1.ShowDialog();
+
+                    //This code takes the file the user selected and puts it in the variable. 
+                    CardGameConfig = openFileDialog1.FileName;
+                }
+
+            } while (fileBad);
+          
         }
 
         private void rdo1_CheckedChanged(object sender, EventArgs e)

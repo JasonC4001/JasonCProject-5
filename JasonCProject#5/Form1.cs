@@ -1,5 +1,5 @@
 using System.Diagnostics.Eventing.Reader;
-//Jason Chen - ICA 6
+//Jason Chen - ICA 7
 
 namespace JasonCProject_5
 {
@@ -156,10 +156,6 @@ namespace JasonCProject_5
             lstOut.Items.Add(DateTime.Now.ToString("f"));
             lstOut.Items.Add(DateTime.Now.ToString("G"));
             */
-
-
-
-
             // If's and Else-If's statements whether Player 1 or 2 wins/loses, and both players draw or loses.           
             //if (p1HealthLeft <= 0)
             //{

@@ -1,4 +1,5 @@
 using System.Diagnostics.Eventing.Reader;
+using System.Windows.Forms.VisualStyles;
 //Jason Chen - ICA 7
 
 namespace JasonCProject_5
@@ -12,9 +13,28 @@ namespace JasonCProject_5
         private string TradingGameLog = "TradingGameLog.txt";
         private string CardGameConfig = "CardGameConfig.txt";
 
-        private double HealthPowerUpAmount = 10;
-        private double StrengthPowerUpAmount = 15;
-        private double NormalPowerUpAmount = 0;
+        private int healthPowerUpAmount = 10;
+        private int strengthPowerUpAmount = 15;
+        private int normalPowerUpAmount = 0;
+   
+        public int HealthPowerUpAmount
+        {
+            get { return healthPowerUpAmount; }
+            set { healthPowerUpAmount = value; }
+        }
+
+        public int StrengthPowerUpAmount
+        {
+            get { return strengthPowerUpAmount; }
+            set { strengthPowerUpAmount = value; }
+        }
+
+        public int NormalPowerUpAmount
+        {
+            get { return normalPowerUpAmount; }
+            set { normalPowerUpAmount = value; }
+        }
+
 
         public Form1()
         {
@@ -57,18 +77,18 @@ namespace JasonCProject_5
         {
             //Calculate the starting health of both players, then add or subtract depending on each player's attack strength.
        
-            double p1Health, p1Strength, p1DamageTaken, p1HealthLeft, p2Health;
+            int p1Health, p1Strength, p1DamageTaken, p1HealthLeft, p2Health;
 
             // h = Health, s = Strength
-            double hPowerUpAmount = 0;
-            double sPowerUpAmount = 0;
-            double nPowerUpAmount = 0;
+            int hPowerUpAmount = 0;
+            int sPowerUpAmount = 0;
+            int nPowerUpAmount = 0;
 
             string p1Name, p2Name;
             bool healthValid, strengthValid;
 
             // player 2 strength for now
-            double p2Strength = 12;
+            int p2Strength = 12;
 
             //declaring the StreamWriter
             StreamWriter sw;
@@ -79,13 +99,13 @@ namespace JasonCProject_5
 
             
             // Parse converts string to double
-            p2Health = double.Parse(txtPlayer2Health.Text);
-            p2Strength = double.Parse(txtPlayer2AttackStrength.Text);
+            //p2Health = double.Parse(txtPlayer2Health.Text);
+            //p2Strength = double.Parse(txtPlayer2AttackStrength.Text);
 
 
             // Convert Parse to TryParse
-            healthValid = double.TryParse(txtPlayer1Health.Text, out p1Health);
-            strengthValid = double.TryParse(txtPlayer1AttackStrength.Text, out p1Strength);
+            healthValid = int.TryParse(txtPlayer1Health.Text, out p1Health);
+            strengthValid = int.TryParse(txtPlayer1AttackStrength.Text, out p1Strength);
 
 
             if (healthValid && strengthValid)
@@ -93,13 +113,13 @@ namespace JasonCProject_5
                 switch (PowerUps)
                 {
                     case P1_HEALTH:
-                        hPowerUpAmount = HealthPowerUpAmount;
+                        hPowerUpAmount = healthPowerUpAmount;
                         break;
                     case P1_STRENGTH:
-                        sPowerUpAmount = StrengthPowerUpAmount;
+                        sPowerUpAmount = strengthPowerUpAmount;
                         break;
                     case P1_NORMAL:
-                        nPowerUpAmount = NormalPowerUpAmount;
+                        nPowerUpAmount = normalPowerUpAmount;
                         break;
                     default:
                         lstOut.Items.Add("Error; this should never happen.");
@@ -110,7 +130,7 @@ namespace JasonCProject_5
                 p1DamageTaken = p2Strength;
                 p1Strength += sPowerUpAmount;
                 p1HealthLeft = hPowerUpAmount + (p1Health - p1DamageTaken);
-                p2Health -= p1Strength;
+                //p2Health -= p1Strength;
 
                 //output
                 lstOut.Items.Add("Player's 1 Name is: " + p1Name);
@@ -124,6 +144,7 @@ namespace JasonCProject_5
                 lstOut.Items.Add("Total Health is: " + p1HealthLeft.ToString("N2"));
                 lstOut.Items.Add("");
 
+                
 
                 sw = File.AppendText(TradingGameLog);
                 sw.WriteLine("************Beginning of Game Log at " + DateTime.Now.ToString("G") + "************");
@@ -224,19 +245,24 @@ namespace JasonCProject_5
             StreamReader reader;
             bool valValid;
             bool fileBad = true;
-
+            
             do
             {
                 try
                 {
                     reader = File.OpenText(CardGameConfig);
                     fileBad = false;
+                    int tempValue;
+                    
+                    valValid = int.TryParse(reader.ReadLine(), out tempValue);
+                    HealthPowerUpAmount = tempValue;
 
-                    valValid = double.TryParse(reader.ReadLine(), out HealthPowerUpAmount);
+                    valValid = int.TryParse(reader.ReadLine(), out tempValue);
+                    StrengthPowerUpAmount = tempValue;
 
-                    valValid = double.TryParse(reader.ReadLine(), out StrengthPowerUpAmount);
+                    valValid = int.TryParse(reader.ReadLine(), out tempValue);
+                    NormalPowerUpAmount = tempValue;
 
-                    valValid = double.TryParse(reader.ReadLine(), out NormalPowerUpAmount);
 
                     reader.Close();
 

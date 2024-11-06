@@ -208,3 +208,133 @@ jason's strength is: 10.00
 jason has taken: 12.00 damage from Player 2
 Total Health is: 18.00
 
+************Beginning of Game Log at 11/6/2024 11:11:04 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 20
+Power Up Amount (Strength): 0
+jason's health is: 10.00
+jason's strength is: 10.00
+jason has taken: 12.00 damage from Player 2
+Total Health is: 18.00
+
+************Beginning of Game Log at 11/6/2024 11:11:07 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 30
+jason's health is: 10.00
+jason's strength is: 40.00
+jason has taken: 12.00 damage from Player 2
+Total Health is: -2.00
+
+************Beginning of Game Log at 11/6/2024 11:46:40 AM************
+Player's 1 Name is: jwid
+Power Up Selected: Add Health
+Power Up Amount (Health): 30
+Power Up Amount (Strength): 0
+jwid's health is: 19.00
+jwid's strength is: 10.00
+jwid has taken: 12.00 damage from Player 2
+Total Health is: 37.00
+
+************Beginning of Game Log at 11/6/2024 11:46:44 AM************
+Player's 1 Name is: jwid
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+jwid's health is: 19.00
+jwid's strength is: 10.00
+jwid has taken: 12.00 damage from Player 2
+Total Health is: 7.00
+
+************Beginning of Game Log at 11/6/2024 11:46:54 AM************
+Player's 1 Name is: jwid
+Power Up Selected: No Power Ups
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+jwid's health is: 19.00
+jwid's strength is: 10.00
+jwid has taken: 12.00 damage from Player 2
+Total Health is: 7.00
+
+************Beginning of Game Log at 11/6/2024 11:46:56 AM************
+Player's 1 Name is: jwid
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+jwid's health is: 19.00
+jwid's strength is: 10.00
+jwid has taken: 12.00 damage from Player 2
+Total Health is: 7.00
+
+************Beginning of Game Log at 11/6/2024 11:48:25 AM************
+Player's 1 Name is: h
+Power Up Selected: Add Health
+Power Up Amount (Health): 30
+Power Up Amount (Strength): 0
+h's health is: 100.00
+h's strength is: 10.00
+h has taken: 12.00 damage from Player 2
+Total Health is: 118.00
+
+************Beginning of Game Log at 11/6/2024 11:48:28 AM************
+Player's 1 Name is: h
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+h's health is: 100.00
+h's strength is: 10.00
+h has taken: 12.00 damage from Player 2
+Total Health is: 88.00
+
+************Beginning of Game Log at 11/6/2024 11:48:29 AM************
+Player's 1 Name is: h
+Power Up Selected: No Power Ups
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+h's health is: 100.00
+h's strength is: 10.00
+h has taken: 12.00 damage from Player 2
+Total Health is: 88.00
+
+************Beginning of Game Log at 11/6/2024 11:48:36 AM************
+Player's 1 Name is: h
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+h's health is: 100.00
+h's strength is: 10.00
+h has taken: 12.00 damage from Player 2
+Total Health is: 88.00
+
+************Beginning of Game Log at 11/6/2024 11:49:22 AM************
+Player's 1 Name is: eyg
+Power Up Selected: Add Health
+Power Up Amount (Health): 20
+Power Up Amount (Strength): 0
+eyg's health is: 100.00
+eyg's strength is: 100.00
+eyg has taken: 12.00 damage from Player 2
+Total Health is: 108.00
+
+************Beginning of Game Log at 11/6/2024 11:49:24 AM************
+Player's 1 Name is: eyg
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 30
+eyg's health is: 100.00
+eyg's strength is: 130.00
+eyg has taken: 12.00 damage from Player 2
+Total Health is: 88.00
+
+************Beginning of Game Log at 11/6/2024 11:49:26 AM************
+Player's 1 Name is: eyg
+Power Up Selected: No Power Ups
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+eyg's health is: 100.00
+eyg's strength is: 100.00
+eyg has taken: 12.00 damage from Player 2
+Total Health is: 88.00
+

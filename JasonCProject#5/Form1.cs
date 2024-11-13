@@ -1,6 +1,6 @@
 using System.Diagnostics.Eventing.Reader;
 using System.Windows.Forms.VisualStyles;
-//Jason Chen - ICA 7
+//Jason Chen 
 
 namespace JasonCProject_5
 {
@@ -16,7 +16,10 @@ namespace JasonCProject_5
         private int healthPowerUpAmount = 10;
         private int strengthPowerUpAmount = 15;
         private int normalPowerUpAmount = 0;
-   
+
+        //declared Form2
+        private Form2 SettingsForm;
+
         public int HealthPowerUpAmount
         {
             get { return healthPowerUpAmount; }
@@ -39,7 +42,7 @@ namespace JasonCProject_5
         public Form1()
         {
             InitializeComponent();
-            
+
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -61,7 +64,7 @@ namespace JasonCProject_5
             {
                 this.Close();
             }
-                
+
         }
 
         private void btnClearAll_Click(object sender, EventArgs e)
@@ -76,7 +79,7 @@ namespace JasonCProject_5
         private void btnCalculateHealth_Click(object sender, EventArgs e)
         {
             //Calculate the starting health of both players, then add or subtract depending on each player's attack strength.
-       
+
             int p1Health, p1Strength, p1DamageTaken, p1HealthLeft, p2Health;
 
             // h = Health, s = Strength
@@ -86,6 +89,7 @@ namespace JasonCProject_5
 
             string p1Name, p2Name;
             bool healthValid, strengthValid;
+            bool p2HealthValid, p2StrengthValid;
 
             // player 2 strength for now
             int p2Strength = 12;
@@ -97,10 +101,10 @@ namespace JasonCProject_5
             p1Name = txtPlayer1Name.Text;
             p2Name = txtPlayer2Name.Text;
 
-            
+
             // Parse converts string to double
-            //p2Health = double.Parse(txtPlayer2Health.Text);
-            //p2Strength = double.Parse(txtPlayer2AttackStrength.Text);
+            p2HealthValid = int.TryParse(txtPlayer2Health.Text, out p2Health);
+            p2StrengthValid = int.TryParse(txtPlayer2AttackStrength.Text, out p2Strength);
 
 
             // Convert Parse to TryParse
@@ -130,7 +134,7 @@ namespace JasonCProject_5
                 p1DamageTaken = p2Strength;
                 p1Strength += sPowerUpAmount;
                 p1HealthLeft = hPowerUpAmount + (p1Health - p1DamageTaken);
-                //p2Health -= p1Strength;
+                p2Health -= p1Strength;
 
                 //output
                 lstOut.Items.Add("Player's 1 Name is: " + p1Name);
@@ -144,7 +148,7 @@ namespace JasonCProject_5
                 lstOut.Items.Add("Total Health is: " + p1HealthLeft.ToString("N2"));
                 lstOut.Items.Add("");
 
-                
+
 
                 sw = File.AppendText(TradingGameLog);
                 sw.WriteLine("************Beginning of Game Log at " + DateTime.Now.ToString("G") + "************");
@@ -162,7 +166,7 @@ namespace JasonCProject_5
 
             }
 
-            
+
             // Else statement if user enters an invalid response. 
             else
             {
@@ -177,6 +181,7 @@ namespace JasonCProject_5
             lstOut.Items.Add(DateTime.Now.ToString("f"));
             lstOut.Items.Add(DateTime.Now.ToString("G"));
             */
+
             // If's and Else-If's statements whether Player 1 or 2 wins/loses, and both players draw or loses.           
             //if (p1HealthLeft <= 0)
             //{
@@ -240,12 +245,13 @@ namespace JasonCProject_5
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            SettingsForm = new Form2(this);
 
             rdoHealth.Checked = true;
             StreamReader reader;
             bool valValid;
             bool fileBad = true;
-            
+
             do
             {
                 try
@@ -253,7 +259,7 @@ namespace JasonCProject_5
                     reader = File.OpenText(CardGameConfig);
                     fileBad = false;
                     int tempValue;
-                    
+
                     valValid = int.TryParse(reader.ReadLine(), out tempValue);
                     HealthPowerUpAmount = tempValue;
 
@@ -280,14 +286,14 @@ namespace JasonCProject_5
                 }
 
             } while (fileBad);
-          
+
         }
 
         private void rdo1_CheckedChanged(object sender, EventArgs e)
         {
             if (rdoHealth.Checked)
             {
-                PowerUps  = P1_HEALTH;
+                PowerUps = P1_HEALTH;
             }
         }
 
@@ -310,6 +316,14 @@ namespace JasonCProject_5
         private void groupBox1_Enter(object sender, EventArgs e)
         {
 
+        }
+
+        private void settingsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            SettingsForm.txtHealthValue.Text = HealthPowerUpAmount.ToString();
+            SettingsForm.txtStrengthValue.Text = StrengthPowerUpAmount.ToString();
+            SettingsForm.txtNormalValue.Text = NormalPowerUpAmount.ToString();
+            SettingsForm.ShowDialog();
         }
     }
 }

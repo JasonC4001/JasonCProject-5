@@ -338,3 +338,93 @@ eyg's strength is: 100.00
 eyg has taken: 12.00 damage from Player 2
 Total Health is: 88.00
 
+************Beginning of Game Log at 11/13/2024 10:40:16 AM************
+Player's 1 Name is: yh
+Power Up Selected: Add Health
+Power Up Amount (Health): 20
+Power Up Amount (Strength): 0
+yh's health is: 34.00
+yh's strength is: 3.00
+yh has taken: 12.00 damage from Player 2
+Total Health is: 42.00
+
+************Beginning of Game Log at 11/13/2024 11:43:27 AM************
+Player's 1 Name is: e
+Power Up Selected: Add Health
+Power Up Amount (Health): 20
+Power Up Amount (Strength): 0
+e's health is: 3.00
+e's strength is: 3.00
+e has taken: 12.00 damage from Player 2
+Total Health is: 11.00
+
+************Beginning of Game Log at 11/13/2024 11:43:34 AM************
+Player's 1 Name is: e
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 30
+e's health is: 3.00
+e's strength is: 33.00
+e has taken: 12.00 damage from Player 2
+Total Health is: -9.00
+
+************Beginning of Game Log at 11/13/2024 11:49:49 AM************
+Player's 1 Name is: t
+Power Up Selected: Add Health
+Power Up Amount (Health): 20
+Power Up Amount (Strength): 0
+t's health is: 12.00
+t's strength is: 18.00
+t has taken: 12.00 damage from Player 2
+Total Health is: 20.00
+
+************Beginning of Game Log at 11/13/2024 11:49:59 AM************
+Player's 1 Name is: h
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 30
+h's health is: 42.00
+h's strength is: 36.00
+h has taken: 12.00 damage from Player 2
+Total Health is: 30.00
+
+************Beginning of Game Log at 11/13/2024 11:52:35 AM************
+Player's 1 Name is: w
+Power Up Selected: Add Health
+Power Up Amount (Health): 20
+Power Up Amount (Strength): 0
+w's health is: 2.00
+w's strength is: 1.00
+w has taken: 12.00 damage from Player 2
+Total Health is: 10.00
+
+************Beginning of Game Log at 11/13/2024 11:52:39 AM************
+Player's 1 Name is: w
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 30
+w's health is: 2.00
+w's strength is: 31.00
+w has taken: 12.00 damage from Player 2
+Total Health is: -10.00
+
+************Beginning of Game Log at 11/13/2024 11:52:41 AM************
+Player's 1 Name is: w
+Power Up Selected: No Power Ups
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+w's health is: 2.00
+w's strength is: 1.00
+w has taken: 12.00 damage from Player 2
+Total Health is: -10.00
+
+************Beginning of Game Log at 11/13/2024 11:52:49 AM************
+Player's 1 Name is: w
+Power Up Selected: No Power Ups
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+w's health is: 2.00
+w's strength is: 1.00
+w has taken: 12.00 damage from Player 2
+Total Health is: -10.00
+

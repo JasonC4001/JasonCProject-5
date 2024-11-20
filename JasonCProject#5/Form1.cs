@@ -11,7 +11,7 @@ namespace JasonCProject_5
         const string P1_STRENGTH = "Add Strength";
         const string P1_NORMAL = "No Power Ups";
         private string TradingGameLog = "TradingGameLog.txt";
-        private string CardGameConfig = "CardGameConfig.txt";
+        public string CardGameConfig = "CardGameConfig.txt";
 
         private int healthPowerUpAmount = 10;
         private int strengthPowerUpAmount = 15;
@@ -37,7 +37,6 @@ namespace JasonCProject_5
             get { return normalPowerUpAmount; }
             set { normalPowerUpAmount = value; }
         }
-
 
         public Form1()
         {
@@ -80,7 +79,7 @@ namespace JasonCProject_5
         {
             //Calculate the starting health of both players, then add or subtract depending on each player's attack strength.
 
-            int p1Health, p1Strength, p1DamageTaken, p1HealthLeft, p2Health;
+            int p1Health, p1Strength, p1DamageTaken, p1HealthLeft, p2HealthLeft;
 
             // h = Health, s = Strength
             int hPowerUpAmount = 0;
@@ -89,9 +88,10 @@ namespace JasonCProject_5
 
             string p1Name, p2Name;
             bool healthValid, strengthValid;
-            bool p2HealthValid, p2StrengthValid;
 
-            // player 2 strength for now
+
+            // player 2 health and strength
+            int p2Health = 80;
             int p2Strength = 12;
 
             //declaring the StreamWriter
@@ -101,16 +101,9 @@ namespace JasonCProject_5
             p1Name = txtPlayer1Name.Text;
             p2Name = txtPlayer2Name.Text;
 
-
-            // Parse converts string to double
-            p2HealthValid = int.TryParse(txtPlayer2Health.Text, out p2Health);
-            p2StrengthValid = int.TryParse(txtPlayer2AttackStrength.Text, out p2Strength);
-
-
             // Convert Parse to TryParse
             healthValid = int.TryParse(txtPlayer1Health.Text, out p1Health);
             strengthValid = int.TryParse(txtPlayer1AttackStrength.Text, out p1Strength);
-
 
             if (healthValid && strengthValid)
             {
@@ -134,14 +127,13 @@ namespace JasonCProject_5
                 p1DamageTaken = p2Strength;
                 p1Strength += sPowerUpAmount;
                 p1HealthLeft = hPowerUpAmount + (p1Health - p1DamageTaken);
-                p2Health -= p1Strength;
+                p2HealthLeft = p2Health - p1Strength;
 
                 //output
                 lstOut.Items.Add("Player's 1 Name is: " + p1Name);
                 lstOut.Items.Add("Power Up Selected: " + PowerUps);
                 lstOut.Items.Add("Power Up Amount (Health): " + hPowerUpAmount);
                 lstOut.Items.Add("Power Up Amount (Strength): " + sPowerUpAmount);
-
                 lstOut.Items.Add(p1Name + "'s health is: " + p1Health.ToString("N2"));
                 lstOut.Items.Add(p1Name + "'s strength is: " + p1Strength.ToString("N2"));
                 lstOut.Items.Add(p1Name + " has taken: " + p1DamageTaken.ToString("N2") + " damage from Player 2");
@@ -149,6 +141,20 @@ namespace JasonCProject_5
                 lstOut.Items.Add("");
 
 
+                if (p1HealthLeft <= 0)
+                {
+                    lstOut.Items.Add("Player 2 Wins");
+                }
+                else if (p1HealthLeft == p2HealthLeft)
+                {
+                    lstOut.Items.Add("It's a tie!");
+                }
+                else
+                {
+                    lstOut.Items.Add("Player 1 Wins!");
+                }
+
+                //Saves results to seperate file. 
 
                 sw = File.AppendText(TradingGameLog);
                 sw.WriteLine("************Beginning of Game Log at " + DateTime.Now.ToString("G") + "************");
@@ -162,6 +168,19 @@ namespace JasonCProject_5
                 sw.WriteLine("Total Health is: " + p1HealthLeft.ToString("N2"));
                 sw.WriteLine("");
 
+                if (p1HealthLeft <= 0)
+                {
+                    sw.WriteLine("Player 2 Wins");
+                }
+                else if (p1HealthLeft == p2HealthLeft)
+                {
+                    sw.WriteLine("It's a tie!");
+                }
+                else
+                {
+                    sw.WriteLine("Player 1 Wins!");
+                }
+
                 sw.Close();
 
             }
@@ -173,7 +192,6 @@ namespace JasonCProject_5
                 lstOut.Items.Add("Invalid response, please enter a numeric response for health and strength.");
             }
 
-
             /*
             //SAMPLE CODE (DON'T KEEP IN CODE) 
             DateTime t = DateTime.Now;
@@ -181,17 +199,6 @@ namespace JasonCProject_5
             lstOut.Items.Add(DateTime.Now.ToString("f"));
             lstOut.Items.Add(DateTime.Now.ToString("G"));
             */
-
-            // If's and Else-If's statements whether Player 1 or 2 wins/loses, and both players draw or loses.           
-            //if (p1HealthLeft <= 0)
-            //{
-            //lstOut.Items.Add("Player 2 Win! Player 1 has no remaining health");
-            //}
-
-            //else if (p1HealthLeft == p2HealthLeft)
-            //{
-            //
-            //}
 
             // This changes the focus to the clear button
 
@@ -320,10 +327,35 @@ namespace JasonCProject_5
 
         private void settingsToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            setValuesOnSecondForm();
+            SettingsForm.ShowDialog();
+        }
+
+        public void setValuesOnSecondForm()
+        {
+
             SettingsForm.txtHealthValue.Text = HealthPowerUpAmount.ToString();
             SettingsForm.txtStrengthValue.Text = StrengthPowerUpAmount.ToString();
             SettingsForm.txtNormalValue.Text = NormalPowerUpAmount.ToString();
-            SettingsForm.ShowDialog();
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            const int MAX_LOG_SIZE = 2000;
+
+            string[] TradingLog = new string[MAX_LOG_SIZE];
+
+            StreamReader sr = File.OpenText(TradingGameLog);
+
+            int numLines = 0;
+            while (!sr.EndOfStream)
+            {
+                TradingLog[numLines] = sr.ReadLine();
+                numLines++;
+            }
+
+            sr.Close();
         }
     }
 }

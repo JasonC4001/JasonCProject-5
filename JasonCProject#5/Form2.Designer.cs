@@ -36,7 +36,7 @@
             lblStrength = new Label();
             txtNormalValue = new TextBox();
             lblNormal = new Label();
-            button1 = new Button();
+            btnSetReturn = new Button();
             SuspendLayout();
             // 
             // lblHealth
@@ -106,22 +106,22 @@
             lblNormal.TabIndex = 6;
             lblNormal.Text = "Normal's Value";
             // 
-            // button1
+            // btnSetReturn
             // 
-            button1.Location = new Point(189, 250);
-            button1.Name = "button1";
-            button1.Size = new Size(144, 27);
-            button1.TabIndex = 10;
-            button1.Text = "&Set && Return";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
+            btnSetReturn.Location = new Point(189, 250);
+            btnSetReturn.Name = "btnSetReturn";
+            btnSetReturn.Size = new Size(144, 27);
+            btnSetReturn.TabIndex = 10;
+            btnSetReturn.Text = "&Set && Return";
+            btnSetReturn.UseVisualStyleBackColor = true;
+            btnSetReturn.Click += button1_Click;
             // 
             // Form2
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(555, 630);
-            Controls.Add(button1);
+            ClientSize = new Size(529, 368);
+            Controls.Add(btnSetReturn);
             Controls.Add(txtNormalValue);
             Controls.Add(lblNormal);
             Controls.Add(txtStrengthValue);
@@ -143,7 +143,7 @@
         private Label label3;
         private Label lblStrength;
         private Label lblNormal;
-        private Button button1;
+        private Button btnSetReturn;
         public TextBox txtHealthValue;
         public TextBox txtStrengthValue;
         public TextBox txtNormalValue;

@@ -52,6 +52,7 @@
             openFileDialog1 = new OpenFileDialog();
             menuStrip1 = new MenuStrip();
             MnuSettings = new ToolStripMenuItem();
+            btnDisplayLogPOwer = new Button();
             groupBox1.SuspendLayout();
             menuStrip1.SuspendLayout();
             SuspendLayout();
@@ -138,9 +139,9 @@
             // 
             // btnCalculateHealth
             // 
-            btnCalculateHealth.Location = new Point(140, 476);
+            btnCalculateHealth.Location = new Point(69, 470);
             btnCalculateHealth.Name = "btnCalculateHealth";
-            btnCalculateHealth.Size = new Size(194, 23);
+            btnCalculateHealth.Size = new Size(194, 69);
             btnCalculateHealth.TabIndex = 11;
             btnCalculateHealth.Text = "Calculate &Player's 1 Health";
             btnCalculateHealth.UseVisualStyleBackColor = true;
@@ -148,9 +149,9 @@
             // 
             // btnClearAll
             // 
-            btnClearAll.Location = new Point(404, 476);
+            btnClearAll.Location = new Point(298, 470);
             btnClearAll.Name = "btnClearAll";
-            btnClearAll.Size = new Size(194, 23);
+            btnClearAll.Size = new Size(194, 69);
             btnClearAll.TabIndex = 12;
             btnClearAll.Text = "&Clear All";
             btnClearAll.UseVisualStyleBackColor = true;
@@ -158,9 +159,9 @@
             // 
             // btnQuit
             // 
-            btnQuit.Location = new Point(661, 476);
+            btnQuit.Location = new Point(527, 470);
             btnQuit.Name = "btnQuit";
-            btnQuit.Size = new Size(194, 23);
+            btnQuit.Size = new Size(194, 69);
             btnQuit.TabIndex = 13;
             btnQuit.Text = "&Quit";
             btnQuit.UseVisualStyleBackColor = true;
@@ -213,7 +214,7 @@
             txtPlayer2Health.ReadOnly = true;
             txtPlayer2Health.Size = new Size(100, 23);
             txtPlayer2Health.TabIndex = 15;
-            txtPlayer2Health.Text = "46";
+            txtPlayer2Health.Text = "80";
             // 
             // txtPlayer2AttackStrength
             // 
@@ -293,11 +294,22 @@
             MnuSettings.Text = "&Settings";
             MnuSettings.Click += settingsToolStripMenuItem_Click;
             // 
+            // btnDisplayLogPOwer
+            // 
+            btnDisplayLogPOwer.Location = new Point(750, 470);
+            btnDisplayLogPOwer.Name = "btnDisplayLogPOwer";
+            btnDisplayLogPOwer.Size = new Size(194, 69);
+            btnDisplayLogPOwer.TabIndex = 19;
+            btnDisplayLogPOwer.Text = "Display Logs for Selected PowerUps";
+            btnDisplayLogPOwer.UseVisualStyleBackColor = true;
+            btnDisplayLogPOwer.Click += button1_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(991, 551);
+            Controls.Add(btnDisplayLogPOwer);
             Controls.Add(groupBox1);
             Controls.Add(txtPlayer2AttackStrength);
             Controls.Add(txtPlayer2Health);
@@ -355,5 +367,6 @@
         private OpenFileDialog openFileDialog1;
         private MenuStrip menuStrip1;
         private ToolStripMenuItem MnuSettings;
+        private Button btnDisplayLogPOwer;
     }
 }

@@ -878,3 +878,14 @@ Power Up Amount (Strength): 20
 1 has taken: 12.00 damage from Player 2
 Total Health is: -11.00
 
+************Beginning of Game Log at 11/25/2024 10:47:39 AM************
+Player's 1 Name is: Jason
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+Jason's health is: 19.00
+Jason's strength is: 21.00
+Jason has taken: 12.00 damage from Player 2
+Total Health is: 7.00
+
+Player 1 Wins!

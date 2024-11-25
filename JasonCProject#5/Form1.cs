@@ -344,18 +344,32 @@ namespace JasonCProject_5
         {
             const int MAX_LOG_SIZE = 2000;
 
-            string[] TradingLog = new string[MAX_LOG_SIZE];
+            string[] TradingLineLog = new string[MAX_LOG_SIZE];
 
             StreamReader sr = File.OpenText(TradingGameLog);
 
-            int numLines = 0;
+            int logNumLines = 0;
             while (!sr.EndOfStream)
             {
-                TradingLog[numLines] = sr.ReadLine();
-                numLines++;
+                TradingLineLog[logNumLines] = sr.ReadLine();
+                logNumLines++;
             }
 
             sr.Close();
+
+            for (int i = 0; i < logNumLines; i++) 
+            {
+                if (TradingLineLog[i] == "Power Up Selected: " + PowerUps) 
+                {
+                    for (int j = i-2; j <= i + 7; j++)
+                    {
+                        lstOut.Items.Add(TradingLineLog[j]);
+                    }
+
+                }
+            }
+
+
         }
     }
 }

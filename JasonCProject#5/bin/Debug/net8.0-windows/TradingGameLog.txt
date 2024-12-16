@@ -1,891 +1,314 @@
-************Beginning of Game Log at 10/30/2024 10:53:58 AM************
-Player's 1 Name is: jason
-Power Up Selected: Add Health
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 0
-jason's health is: 10.00
-jason's strength is: 10.00
-jason has taken: 12.00 damage from Player 2
-Total Health is: -2.00
-
-************Beginning of Game Log at 10/30/2024 10:54:03 AM************
-Player's 1 Name is: jason
-Power Up Selected: Add Strength
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 0
-jason's health is: 10.00
-jason's strength is: 10.00
-jason has taken: 12.00 damage from Player 2
-Total Health is: -2.00
-
-************Beginning of Game Log at 10/30/2024 10:55:27 AM************
+************Beginning of Game Log at 12/16/2024 11:56:29 AM************
 Player's 1 Name is: jason
 Power Up Selected: Add Health
 Power Up Amount (Health): 10
 Power Up Amount (Strength): 0
-jason's health is: 10.00
-jason's strength is: 10.00
-jason has taken: 12.00 damage from Player 2
-Total Health is: 8.00
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Total Health is: 98
 
-************Beginning of Game Log at 10/30/2024 10:55:29 AM************
-Player's 1 Name is: jason
-Power Up Selected: Add Strength
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 15
-jason's health is: 10.00
-jason's strength is: 25.00
-jason has taken: 12.00 damage from Player 2
-Total Health is: -2.00
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70
+No one has won yet. 
 
-************Beginning of Game Log at 10/30/2024 10:55:32 AM************
-Player's 1 Name is: jason
-Power Up Selected: No Power Ups
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 0
-jason's health is: 10.00
-jason's strength is: 10.00
-jason has taken: 12.00 damage from Player 2
-Total Health is: -2.00
-
-************Beginning of Game Log at 10/30/2024 11:14:43 AM************
-Player's 1 Name is: Jason
-Power Up Selected: Add Health
-Power Up Amount (Health): 10
-Power Up Amount (Strength): 0
-Jason's health is: 19.00
-Jason's strength is: 10.00
-Jason has taken: 12.00 damage from Player 2
-Total Health is: 17.00
-
-************Beginning of Game Log at 10/30/2024 11:14:45 AM************
-Player's 1 Name is: Jason
-Power Up Selected: Add Strength
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 15
-Jason's health is: 19.00
-Jason's strength is: 25.00
-Jason has taken: 12.00 damage from Player 2
-Total Health is: 7.00
-
-************Beginning of Game Log at 10/30/2024 11:14:47 AM************
-Player's 1 Name is: Jason
-Power Up Selected: No Power Ups
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 0
-Jason's health is: 19.00
-Jason's strength is: 10.00
-Jason has taken: 12.00 damage from Player 2
-Total Health is: 7.00
-
-************Beginning of Game Log at 10/30/2024 11:27:00 AM************
-Player's 1 Name is: k
-Power Up Selected: Add Health
-Power Up Amount (Health): 10
-Power Up Amount (Strength): 0
-k's health is: 1.00
-k's strength is: 4.00
-k has taken: 12.00 damage from Player 2
-Total Health is: -1.00
-
-************Beginning of Game Log at 10/30/2024 11:27:08 AM************
-Player's 1 Name is: k
-Power Up Selected: Add Strength
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 15
-k's health is: 1.00
-k's strength is: 19.00
-k has taken: 12.00 damage from Player 2
-Total Health is: -11.00
-
-************Beginning of Game Log at 10/30/2024 11:27:14 AM************
-Player's 1 Name is: k
-Power Up Selected: No Power Ups
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 0
-k's health is: 1.00
-k's strength is: 4.00
-k has taken: 12.00 damage from Player 2
-Total Health is: -11.00
-
-************Beginning of Game Log at 10/30/2024 11:27:44 AM************
-Player's 1 Name is: jas
-Power Up Selected: Add Health
-Power Up Amount (Health): 10
-Power Up Amount (Strength): 0
-jas's health is: 1.00
-jas's strength is: 10.00
-jas has taken: 12.00 damage from Player 2
-Total Health is: -1.00
-
-************Beginning of Game Log at 10/30/2024 11:27:46 AM************
-Player's 1 Name is: jas
-Power Up Selected: Add Strength
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 1000
-jas's health is: 1.00
-jas's strength is: 1,010.00
-jas has taken: 12.00 damage from Player 2
-Total Health is: -11.00
-
-************Beginning of Game Log at 10/30/2024 11:27:49 AM************
-Player's 1 Name is: jas
-Power Up Selected: No Power Ups
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 0
-jas's health is: 1.00
-jas's strength is: 10.00
-jas has taken: 12.00 damage from Player 2
-Total Health is: -11.00
-
-************Beginning of Game Log at 10/30/2024 11:46:50 AM************
-Player's 1 Name is: jason
-Power Up Selected: Add Health
-Power Up Amount (Health): 20
-Power Up Amount (Strength): 0
-jason's health is: 10.00
-jason's strength is: 10.00
-jason has taken: 12.00 damage from Player 2
-Total Health is: 18.00
-
-************Beginning of Game Log at 10/30/2024 11:47:03 AM************
-Player's 1 Name is: jason
-Power Up Selected: Add Strength
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 30
-jason's health is: 10.00
-jason's strength is: 40.00
-jason has taken: 12.00 damage from Player 2
-Total Health is: -2.00
-
-************Beginning of Game Log at 10/30/2024 11:47:08 AM************
-Player's 1 Name is: jason
-Power Up Selected: No Power Ups
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 0
-jason's health is: 10.00
-jason's strength is: 10.00
-jason has taken: 12.00 damage from Player 2
-Total Health is: -2.00
-
-************Beginning of Game Log at 10/30/2024 11:47:42 AM************
-Player's 1 Name is: jason
-Power Up Selected: Add Health
-Power Up Amount (Health): 20
-Power Up Amount (Strength): 0
-jason's health is: 10.00
-jason's strength is: 10.00
-jason has taken: 12.00 damage from Player 2
-Total Health is: 18.00
-
-************Beginning of Game Log at 10/30/2024 11:55:24 AM************
-Player's 1 Name is: jason
-Power Up Selected: Add Health
-Power Up Amount (Health): 20
-Power Up Amount (Strength): 0
-jason's health is: 19.00
-jason's strength is: 10.00
-jason has taken: 12.00 damage from Player 2
-Total Health is: 27.00
-
-************Beginning of Game Log at 10/30/2024 11:55:27 AM************
-Player's 1 Name is: jason
-Power Up Selected: Add Strength
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 30
-jason's health is: 19.00
-jason's strength is: 40.00
-jason has taken: 12.00 damage from Player 2
-Total Health is: 7.00
-
-************Beginning of Game Log at 10/30/2024 12:10:32 PM************
-Player's 1 Name is: jason
-Power Up Selected: Add Health
-Power Up Amount (Health): 20
-Power Up Amount (Strength): 0
-jason's health is: 10.00
-jason's strength is: 10.00
-jason has taken: 12.00 damage from Player 2
-Total Health is: 18.00
-
-************Beginning of Game Log at 11/6/2024 11:11:04 AM************
-Player's 1 Name is: jason
-Power Up Selected: Add Health
-Power Up Amount (Health): 20
-Power Up Amount (Strength): 0
-jason's health is: 10.00
-jason's strength is: 10.00
-jason has taken: 12.00 damage from Player 2
-Total Health is: 18.00
-
-************Beginning of Game Log at 11/6/2024 11:11:07 AM************
-Player's 1 Name is: jason
-Power Up Selected: Add Strength
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 30
-jason's health is: 10.00
-jason's strength is: 40.00
-jason has taken: 12.00 damage from Player 2
-Total Health is: -2.00
-
-************Beginning of Game Log at 11/6/2024 11:46:40 AM************
-Player's 1 Name is: jwid
-Power Up Selected: Add Health
-Power Up Amount (Health): 30
-Power Up Amount (Strength): 0
-jwid's health is: 19.00
-jwid's strength is: 10.00
-jwid has taken: 12.00 damage from Player 2
-Total Health is: 37.00
-
-************Beginning of Game Log at 11/6/2024 11:46:44 AM************
-Player's 1 Name is: jwid
-Power Up Selected: Add Strength
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 0
-jwid's health is: 19.00
-jwid's strength is: 10.00
-jwid has taken: 12.00 damage from Player 2
-Total Health is: 7.00
-
-************Beginning of Game Log at 11/6/2024 11:46:54 AM************
-Player's 1 Name is: jwid
-Power Up Selected: No Power Ups
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 0
-jwid's health is: 19.00
-jwid's strength is: 10.00
-jwid has taken: 12.00 damage from Player 2
-Total Health is: 7.00
-
-************Beginning of Game Log at 11/6/2024 11:46:56 AM************
-Player's 1 Name is: jwid
-Power Up Selected: Add Strength
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 0
-jwid's health is: 19.00
-jwid's strength is: 10.00
-jwid has taken: 12.00 damage from Player 2
-Total Health is: 7.00
-
-************Beginning of Game Log at 11/6/2024 11:48:25 AM************
-Player's 1 Name is: h
-Power Up Selected: Add Health
-Power Up Amount (Health): 30
-Power Up Amount (Strength): 0
-h's health is: 100.00
-h's strength is: 10.00
-h has taken: 12.00 damage from Player 2
-Total Health is: 118.00
-
-************Beginning of Game Log at 11/6/2024 11:48:28 AM************
-Player's 1 Name is: h
-Power Up Selected: Add Strength
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 0
-h's health is: 100.00
-h's strength is: 10.00
-h has taken: 12.00 damage from Player 2
-Total Health is: 88.00
-
-************Beginning of Game Log at 11/6/2024 11:48:29 AM************
-Player's 1 Name is: h
-Power Up Selected: No Power Ups
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 0
-h's health is: 100.00
-h's strength is: 10.00
-h has taken: 12.00 damage from Player 2
-Total Health is: 88.00
-
-************Beginning of Game Log at 11/6/2024 11:48:36 AM************
-Player's 1 Name is: h
-Power Up Selected: Add Strength
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 0
-h's health is: 100.00
-h's strength is: 10.00
-h has taken: 12.00 damage from Player 2
-Total Health is: 88.00
-
-************Beginning of Game Log at 11/6/2024 11:49:22 AM************
-Player's 1 Name is: eyg
-Power Up Selected: Add Health
-Power Up Amount (Health): 20
-Power Up Amount (Strength): 0
-eyg's health is: 100.00
-eyg's strength is: 100.00
-eyg has taken: 12.00 damage from Player 2
-Total Health is: 108.00
-
-************Beginning of Game Log at 11/6/2024 11:49:24 AM************
-Player's 1 Name is: eyg
-Power Up Selected: Add Strength
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 30
-eyg's health is: 100.00
-eyg's strength is: 130.00
-eyg has taken: 12.00 damage from Player 2
-Total Health is: 88.00
-
-************Beginning of Game Log at 11/6/2024 11:49:26 AM************
-Player's 1 Name is: eyg
-Power Up Selected: No Power Ups
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 0
-eyg's health is: 100.00
-eyg's strength is: 100.00
-eyg has taken: 12.00 damage from Player 2
-Total Health is: 88.00
-
-************Beginning of Game Log at 11/13/2024 10:40:16 AM************
-Player's 1 Name is: yh
-Power Up Selected: Add Health
-Power Up Amount (Health): 20
-Power Up Amount (Strength): 0
-yh's health is: 34.00
-yh's strength is: 3.00
-yh has taken: 12.00 damage from Player 2
-Total Health is: 42.00
-
-************Beginning of Game Log at 11/13/2024 11:43:27 AM************
-Player's 1 Name is: e
-Power Up Selected: Add Health
-Power Up Amount (Health): 20
-Power Up Amount (Strength): 0
-e's health is: 3.00
-e's strength is: 3.00
-e has taken: 12.00 damage from Player 2
-Total Health is: 11.00
-
-************Beginning of Game Log at 11/13/2024 11:43:34 AM************
-Player's 1 Name is: e
-Power Up Selected: Add Strength
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 30
-e's health is: 3.00
-e's strength is: 33.00
-e has taken: 12.00 damage from Player 2
-Total Health is: -9.00
-
-************Beginning of Game Log at 11/13/2024 11:49:49 AM************
-Player's 1 Name is: t
-Power Up Selected: Add Health
-Power Up Amount (Health): 20
-Power Up Amount (Strength): 0
-t's health is: 12.00
-t's strength is: 18.00
-t has taken: 12.00 damage from Player 2
-Total Health is: 20.00
-
-************Beginning of Game Log at 11/13/2024 11:49:59 AM************
-Player's 1 Name is: h
-Power Up Selected: Add Strength
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 30
-h's health is: 42.00
-h's strength is: 36.00
-h has taken: 12.00 damage from Player 2
-Total Health is: 30.00
-
-************Beginning of Game Log at 11/13/2024 11:52:35 AM************
-Player's 1 Name is: w
-Power Up Selected: Add Health
-Power Up Amount (Health): 20
-Power Up Amount (Strength): 0
-w's health is: 2.00
-w's strength is: 1.00
-w has taken: 12.00 damage from Player 2
-Total Health is: 10.00
-
-************Beginning of Game Log at 11/13/2024 11:52:39 AM************
-Player's 1 Name is: w
-Power Up Selected: Add Strength
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 30
-w's health is: 2.00
-w's strength is: 31.00
-w has taken: 12.00 damage from Player 2
-Total Health is: -10.00
-
-************Beginning of Game Log at 11/13/2024 11:52:41 AM************
-Player's 1 Name is: w
-Power Up Selected: No Power Ups
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 0
-w's health is: 2.00
-w's strength is: 1.00
-w has taken: 12.00 damage from Player 2
-Total Health is: -10.00
-
-************Beginning of Game Log at 11/13/2024 11:52:49 AM************
-Player's 1 Name is: w
-Power Up Selected: No Power Ups
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 0
-w's health is: 2.00
-w's strength is: 1.00
-w has taken: 12.00 damage from Player 2
-Total Health is: -10.00
-
-************Beginning of Game Log at 11/20/2024 10:31:18 AM************
-Player's 1 Name is: Jason
-Power Up Selected: Add Health
-Power Up Amount (Health): 20
-Power Up Amount (Strength): 0
-Jason's health is: 100.00
-Jason's strength is: 100.00
-Jason has taken: 12.00 damage from Player 2
-Total Health is: 108.00
-
-************Beginning of Game Log at 11/20/2024 10:31:20 AM************
-Player's 1 Name is: Jason
-Power Up Selected: Add Strength
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 30
-Jason's health is: 100.00
-Jason's strength is: 130.00
-Jason has taken: 12.00 damage from Player 2
-Total Health is: 88.00
-
-************Beginning of Game Log at 11/20/2024 10:31:23 AM************
-Player's 1 Name is: Jason
-Power Up Selected: No Power Ups
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 0
-Jason's health is: 100.00
-Jason's strength is: 100.00
-Jason has taken: 12.00 damage from Player 2
-Total Health is: 88.00
-
-************Beginning of Game Log at 11/20/2024 10:31:42 AM************
-Player's 1 Name is: Jason
-Power Up Selected: No Power Ups
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 0
-Jason's health is: 100.00
-Jason's strength is: 100.00
-Jason has taken: 12.00 damage from Player 2
-Total Health is: 88.00
-
-************Beginning of Game Log at 11/20/2024 10:31:45 AM************
-Player's 1 Name is: Jason
-Power Up Selected: Add Health
-Power Up Amount (Health): 100
-Power Up Amount (Strength): 0
-Jason's health is: 100.00
-Jason's strength is: 100.00
-Jason has taken: 12.00 damage from Player 2
-Total Health is: 188.00
-
-************Beginning of Game Log at 11/20/2024 10:31:48 AM************
-Player's 1 Name is: Jason
-Power Up Selected: Add Strength
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 200
-Jason's health is: 100.00
-Jason's strength is: 300.00
-Jason has taken: 12.00 damage from Player 2
-Total Health is: 88.00
-
-************Beginning of Game Log at 11/20/2024 10:52:41 AM************
-Player's 1 Name is: jason
-Power Up Selected: Add Health
-Power Up Amount (Health): 100
-Power Up Amount (Strength): 0
-jason's health is: 10.00
-jason's strength is: 10.00
-jason has taken: 12.00 damage from Player 2
-Total Health is: 98.00
-
-************Beginning of Game Log at 11/20/2024 10:52:44 AM************
-Player's 1 Name is: jason
-Power Up Selected: No Power Ups
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 0
-jason's health is: 10.00
-jason's strength is: 10.00
-jason has taken: 12.00 damage from Player 2
-Total Health is: -2.00
-
-************Beginning of Game Log at 11/20/2024 10:52:49 AM************
-Player's 1 Name is: jason
-Power Up Selected: Add Health
-Power Up Amount (Health): 100
-Power Up Amount (Strength): 0
-jason's health is: 10.00
-jason's strength is: 10.00
-jason has taken: 12.00 damage from Player 2
-Total Health is: 98.00
-
-************Beginning of Game Log at 11/20/2024 10:53:24 AM************
-Player's 1 Name is: jason
-Power Up Selected: Add Health
-Power Up Amount (Health): 100
-Power Up Amount (Strength): 0
-jason's health is: 1.00
-jason's strength is: 45.00
-jason has taken: 12.00 damage from Player 2
-Total Health is: 89.00
-
-************Beginning of Game Log at 11/20/2024 10:53:27 AM************
-Player's 1 Name is: jason
-Power Up Selected: Add Strength
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 200
-jason's health is: 1.00
-jason's strength is: 245.00
-jason has taken: 12.00 damage from Player 2
-Total Health is: -11.00
-
-************Beginning of Game Log at 11/20/2024 10:53:29 AM************
-Player's 1 Name is: jason
-Power Up Selected: No Power Ups
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 0
-jason's health is: 1.00
-jason's strength is: 45.00
-jason has taken: 12.00 damage from Player 2
-Total Health is: -11.00
-
-************Beginning of Game Log at 11/20/2024 10:53:58 AM************
-Player's 1 Name is: kd
-Power Up Selected: Add Health
-Power Up Amount (Health): 100
-Power Up Amount (Strength): 0
-kd's health is: 1.00
-kd's strength is: 10.00
-kd has taken: 12.00 damage from Player 2
-Total Health is: 89.00
-
-************Beginning of Game Log at 11/20/2024 10:54:00 AM************
-Player's 1 Name is: kd
-Power Up Selected: Add Strength
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 200
-kd's health is: 1.00
-kd's strength is: 210.00
-kd has taken: 12.00 damage from Player 2
-Total Health is: -11.00
-
-************Beginning of Game Log at 11/20/2024 10:54:02 AM************
-Player's 1 Name is: kd
-Power Up Selected: No Power Ups
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 0
-kd's health is: 1.00
-kd's strength is: 10.00
-kd has taken: 12.00 damage from Player 2
-Total Health is: -11.00
-
-************Beginning of Game Log at 11/20/2024 10:54:39 AM************
-Player's 1 Name is: ja1
-Power Up Selected: Add Health
-Power Up Amount (Health): 100
-Power Up Amount (Strength): 0
-ja1's health is: 2.00
-ja1's strength is: 1.00
-ja1 has taken: 12.00 damage from Player 2
-Total Health is: 90.00
-
-************Beginning of Game Log at 11/20/2024 10:54:46 AM************
-Player's 1 Name is: ja1
-Power Up Selected: Add Strength
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 200
-ja1's health is: 2.00
-ja1's strength is: 201.00
-ja1 has taken: 12.00 damage from Player 2
-Total Health is: -10.00
-
-************Beginning of Game Log at 11/20/2024 10:54:55 AM************
-Player's 1 Name is: ja1
-Power Up Selected: Add Health
-Power Up Amount (Health): 10
-Power Up Amount (Strength): 0
-ja1's health is: 2.00
-ja1's strength is: 1.00
-ja1 has taken: 12.00 damage from Player 2
-Total Health is: 0.00
-
-************Beginning of Game Log at 11/20/2024 10:54:58 AM************
-Player's 1 Name is: ja1
-Power Up Selected: No Power Ups
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 0
-ja1's health is: 2.00
-ja1's strength is: 1.00
-ja1 has taken: 12.00 damage from Player 2
-Total Health is: -10.00
-
-************Beginning of Game Log at 11/20/2024 10:55:46 AM************
+************Beginning of Game Log at 12/16/2024 11:56:30 AM************
 Player's 1 Name is: jason
 Power Up Selected: Add Health
 Power Up Amount (Health): 10
 Power Up Amount (Strength): 0
-jason's health is: 1.00
-jason's strength is: 1.00
-jason has taken: 12.00 damage from Player 2
-Total Health is: -1.00
+jason's health is: 96
+jason's strength is: 10
+jason has taken: -4 damage from Player 2
+Total Health is: 96
 
-************Beginning of Game Log at 11/20/2024 10:55:48 AM************
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 60
+No one has won yet. 
+
+************Beginning of Game Log at 12/16/2024 11:56:31 AM************
 Player's 1 Name is: jason
-Power Up Selected: Add Strength
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 20
-jason's health is: 1.00
-jason's strength is: 21.00
-jason has taken: 12.00 damage from Player 2
-Total Health is: -11.00
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 94
+jason's strength is: 10
+jason has taken: -6 damage from Player 2
+Total Health is: 94
 
-************Beginning of Game Log at 11/20/2024 10:55:49 AM************
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 50
+No one has won yet. 
+
+************Beginning of Game Log at 12/16/2024 11:56:32 AM************
 Player's 1 Name is: jason
-Power Up Selected: No Power Ups
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 0
-jason's health is: 1.00
-jason's strength is: 1.00
-jason has taken: 12.00 damage from Player 2
-Total Health is: -11.00
-
-************Beginning of Game Log at 11/20/2024 10:59:19 AM************
-Player's 1 Name is: ak
 Power Up Selected: Add Health
 Power Up Amount (Health): 10
 Power Up Amount (Strength): 0
-ak's health is: 10.00
-ak's strength is: 1.00
-ak has taken: 12.00 damage from Player 2
-Total Health is: 8.00
+jason's health is: 92
+jason's strength is: 10
+jason has taken: -8 damage from Player 2
+Total Health is: 92
 
-************Beginning of Game Log at 11/20/2024 10:59:33 AM************
-Player's 1 Name is: j
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 40
+No one has won yet. 
+
+************Beginning of Game Log at 12/16/2024 11:56:32 AM************
+Player's 1 Name is: jason
 Power Up Selected: Add Health
 Power Up Amount (Health): 10
 Power Up Amount (Strength): 0
-j's health is: 10.00
-j's strength is: 1.00
-j has taken: 12.00 damage from Player 2
-Total Health is: 8.00
+jason's health is: 90
+jason's strength is: 10
+jason has taken: -10 damage from Player 2
+Total Health is: 90
 
-************Beginning of Game Log at 11/20/2024 10:59:36 AM************
-Player's 1 Name is: j
-Power Up Selected: Add Strength
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 20
-j's health is: 10.00
-j's strength is: 21.00
-j has taken: 12.00 damage from Player 2
-Total Health is: -2.00
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 30
+No one has won yet. 
 
-************Beginning of Game Log at 11/20/2024 11:01:57 AM************
-Player's 1 Name is: kih
+************Beginning of Game Log at 12/16/2024 11:56:33 AM************
+Player's 1 Name is: jason
 Power Up Selected: Add Health
 Power Up Amount (Health): 10
 Power Up Amount (Strength): 0
-kih's health is: 10.00
-kih's strength is: 1.00
-kih has taken: 12.00 damage from Player 2
-Total Health is: 8.00
+jason's health is: 88
+jason's strength is: 10
+jason has taken: -12 damage from Player 2
+Total Health is: 88
 
-************Beginning of Game Log at 11/20/2024 11:02:00 AM************
-Player's 1 Name is: kih
-Power Up Selected: Add Strength
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 20
-kih's health is: 10.00
-kih's strength is: 21.00
-kih has taken: 12.00 damage from Player 2
-Total Health is: -2.00
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 20
+No one has won yet. 
 
-************Beginning of Game Log at 11/20/2024 11:02:02 AM************
-Player's 1 Name is: kih
-Power Up Selected: No Power Ups
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 0
-kih's health is: 10.00
-kih's strength is: 1.00
-kih has taken: 12.00 damage from Player 2
-Total Health is: -2.00
-
-************Beginning of Game Log at 11/20/2024 11:02:26 AM************
-Player's 1 Name is: ja
+************Beginning of Game Log at 12/16/2024 11:56:33 AM************
+Player's 1 Name is: jason
 Power Up Selected: Add Health
 Power Up Amount (Health): 10
 Power Up Amount (Strength): 0
-ja's health is: 10.00
-ja's strength is: 10.00
-ja has taken: 12.00 damage from Player 2
-Total Health is: 8.00
+jason's health is: 86
+jason's strength is: 10
+jason has taken: -14 damage from Player 2
+Total Health is: 86
 
-************Beginning of Game Log at 11/20/2024 11:02:29 AM************
-Player's 1 Name is: ja
-Power Up Selected: Add Strength
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 20
-ja's health is: 10.00
-ja's strength is: 30.00
-ja has taken: 12.00 damage from Player 2
-Total Health is: -2.00
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 10
+No one has won yet. 
 
-************Beginning of Game Log at 11/20/2024 11:05:44 AM************
-Player's 1 Name is: ek
+************Beginning of Game Log at 12/16/2024 11:56:34 AM************
+Player's 1 Name is: jason
 Power Up Selected: Add Health
 Power Up Amount (Health): 10
 Power Up Amount (Strength): 0
-ek's health is: 10.00
-ek's strength is: 1.00
-ek has taken: 12.00 damage from Player 2
-Total Health is: 8.00
+jason's health is: 84
+jason's strength is: 10
+jason has taken: -16 damage from Player 2
+Total Health is: 84
 
-************Beginning of Game Log at 11/20/2024 11:06:15 AM************
-Player's 1 Name is: 
-Power Up Selected: Add Health
-Power Up Amount (Health): 10
-Power Up Amount (Strength): 0
-'s health is: 10.00
-'s strength is: 1.00
- has taken: 12.00 damage from Player 2
-Total Health is: 8.00
-
-************Beginning of Game Log at 11/20/2024 11:06:24 AM************
-Player's 1 Name is: fw
-Power Up Selected: Add Strength
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 20
-fw's health is: 1.00
-fw's strength is: 21.00
-fw has taken: 12.00 damage from Player 2
-Total Health is: -11.00
-
-************Beginning of Game Log at 11/20/2024 11:06:32 AM************
-Player's 1 Name is: fw
-Power Up Selected: Add Strength
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 20
-fw's health is: 100.00
-fw's strength is: 21.00
-fw has taken: 12.00 damage from Player 2
-Total Health is: 88.00
-
-************Beginning of Game Log at 11/20/2024 11:06:37 AM************
-Player's 1 Name is: fw
-Power Up Selected: Add Health
-Power Up Amount (Health): 10
-Power Up Amount (Strength): 0
-fw's health is: 100.00
-fw's strength is: 1.00
-fw has taken: 12.00 damage from Player 2
-Total Health is: 98.00
-
-************Beginning of Game Log at 11/20/2024 11:07:35 AM************
-Player's 1 Name is: 1
-Power Up Selected: Add Health
-Power Up Amount (Health): 10
-Power Up Amount (Strength): 0
-1's health is: 1.00
-1's strength is: 1.00
-1 has taken: 12.00 damage from Player 2
-Total Health is: -1.00
-
-************Beginning of Game Log at 11/20/2024 11:07:40 AM************
-Player's 1 Name is: 39
-Power Up Selected: Add Health
-Power Up Amount (Health): 10
-Power Up Amount (Strength): 0
-39's health is: 2.00
-39's strength is: 1.00
-39 has taken: 12.00 damage from Player 2
-Total Health is: 0.00
-
-************Beginning of Game Log at 11/20/2024 11:08:05 AM************
-Player's 1 Name is: 1
-Power Up Selected: Add Health
-Power Up Amount (Health): 10
-Power Up Amount (Strength): 0
-1's health is: 100.00
-1's strength is: 1.00
-1 has taken: 12.00 damage from Player 2
-Total Health is: 98.00
-
-************Beginning of Game Log at 11/20/2024 11:10:47 AM************
-Player's 1 Name is: ja
-Power Up Selected: Add Health
-Power Up Amount (Health): 10
-Power Up Amount (Strength): 0
-ja's health is: 10.00
-ja's strength is: 10.00
-ja has taken: 12.00 damage from Player 2
-Total Health is: 8.00
-
-************Beginning of Game Log at 11/20/2024 11:10:50 AM************
-Player's 1 Name is: ja
-Power Up Selected: Add Strength
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 20
-ja's health is: 10.00
-ja's strength is: 30.00
-ja has taken: 12.00 damage from Player 2
-Total Health is: -2.00
-
-************Beginning of Game Log at 11/20/2024 11:11:42 AM************
-Player's 1 Name is: 
-Power Up Selected: Add Health
-Power Up Amount (Health): 10
-Power Up Amount (Strength): 0
-'s health is: 1.00
-'s strength is: 1.00
- has taken: 12.00 damage from Player 2
-Total Health is: -1.00
-
-************Beginning of Game Log at 11/20/2024 11:11:54 AM************
-Player's 1 Name is: j
-Power Up Selected: Add Health
-Power Up Amount (Health): 10
-Power Up Amount (Strength): 0
-j's health is: 100.00
-j's strength is: 1.00
-j has taken: 12.00 damage from Player 2
-Total Health is: 98.00
-
-************Beginning of Game Log at 11/20/2024 11:15:24 AM************
-Player's 1 Name is: jas
-Power Up Selected: Add Health
-Power Up Amount (Health): 10
-Power Up Amount (Strength): 0
-jas's health is: 1.00
-jas's strength is: 1.00
-jas has taken: 12.00 damage from Player 2
-Total Health is: -1.00
-
-************Beginning of Game Log at 11/20/2024 11:18:33 AM************
-Player's 1 Name is: g
-Power Up Selected: Add Health
-Power Up Amount (Health): 10
-Power Up Amount (Strength): 0
-g's health is: 332.00
-g's strength is: 10,000.00
-g has taken: 12.00 damage from Player 2
-Total Health is: 330.00
-
-************Beginning of Game Log at 11/20/2024 11:18:40 AM************
-Player's 1 Name is: 1
-Power Up Selected: Add Strength
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 20
-1's health is: 1.00
-1's strength is: 21.00
-1 has taken: 12.00 damage from Player 2
-Total Health is: -11.00
-
-************Beginning of Game Log at 11/25/2024 10:47:39 AM************
-Player's 1 Name is: Jason
-Power Up Selected: Add Strength
-Power Up Amount (Health): 0
-Power Up Amount (Strength): 20
-Jason's health is: 19.00
-Jason's strength is: 21.00
-Jason has taken: 12.00 damage from Player 2
-Total Health is: 7.00
-
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 0
 Player 1 Wins!
+************Beginning of Game Log at 12/16/2024 11:56:35 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 82
+jason's strength is: 10
+jason has taken: -18 damage from Player 2
+Total Health is: 82
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has -10
+Player 1 Wins!
+************Beginning of Game Log at 12/16/2024 11:56:36 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason's health is: 70
+jason's strength is: 30
+jason has taken: -30 damage from Player 2
+Total Health is: 70
+
+Player 1 dealt 30 damage to Player 2!
+Player 2 has -40
+Player 1 Wins!
+************Beginning of Game Log at 12/16/2024 11:56:45 AM************
+Player's 1 Name is: jaon
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jaon's health is: 188
+jaon's strength is: 30
+jaon has taken: -12 damage from Player 2
+Total Health is: 188
+
+Player 1 dealt 30 damage to Player 2!
+Player 2 has 50
+No one has won yet. 
+
+************Beginning of Game Log at 12/16/2024 11:56:46 AM************
+Player's 1 Name is: jaon
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jaon's health is: 176
+jaon's strength is: 30
+jaon has taken: -24 damage from Player 2
+Total Health is: 176
+
+Player 1 dealt 30 damage to Player 2!
+Player 2 has 20
+No one has won yet. 
+
+************Beginning of Game Log at 12/16/2024 11:56:47 AM************
+Player's 1 Name is: jaon
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jaon's health is: 164
+jaon's strength is: 30
+jaon has taken: -36 damage from Player 2
+Total Health is: 164
+
+Player 1 dealt 30 damage to Player 2!
+Player 2 has -10
+Player 1 Wins!
+************Beginning of Game Log at 12/16/2024 11:56:47 AM************
+Player's 1 Name is: jaon
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jaon's health is: 152
+jaon's strength is: 30
+jaon has taken: -48 damage from Player 2
+Total Health is: 152
+
+Player 1 dealt 30 damage to Player 2!
+Player 2 has -40
+Player 1 Wins!
+************Beginning of Game Log at 12/16/2024 11:56:48 AM************
+Player's 1 Name is: jaon
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jaon's health is: 140
+jaon's strength is: 30
+jaon has taken: -60 damage from Player 2
+Total Health is: 140
+
+Player 1 dealt 30 damage to Player 2!
+Player 2 has -70
+Player 1 Wins!
+************Beginning of Game Log at 12/16/2024 11:56:49 AM************
+Player's 1 Name is: jaon
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jaon's health is: 128
+jaon's strength is: 30
+jaon has taken: -72 damage from Player 2
+Total Health is: 128
+
+Player 1 dealt 30 damage to Player 2!
+Player 2 has -100
+Player 1 Wins!
+************Beginning of Game Log at 12/16/2024 11:56:59 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason's health is: 138
+jason's strength is: 30
+jason has taken: -12 damage from Player 2
+Total Health is: 138
+
+Player 1 dealt 30 damage to Player 2!
+Player 2 has 50
+No one has won yet. 
+
+************Beginning of Game Log at 12/16/2024 11:57:00 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason's health is: 126
+jason's strength is: 30
+jason has taken: -24 damage from Player 2
+Total Health is: 126
+
+Player 1 dealt 30 damage to Player 2!
+Player 2 has 20
+No one has won yet. 
+
+************Beginning of Game Log at 12/16/2024 11:57:01 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason's health is: 114
+jason's strength is: 30
+jason has taken: -36 damage from Player 2
+Total Health is: 114
+
+Player 1 dealt 30 damage to Player 2!
+Player 2 has -10
+Player 1 Wins!
+************Beginning of Game Log at 12/16/2024 11:57:38 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Total Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70
+No one has won yet. 
+
+************Beginning of Game Log at 12/16/2024 11:57:39 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 96
+jason's strength is: 10
+jason has taken: -4 damage from Player 2
+Total Health is: 96
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 60
+No one has won yet. 
+
+************Beginning of Game Log at 12/16/2024 11:57:59 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Total Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70
+No one has won yet. 
+
+************Beginning of Game Log at 12/16/2024 11:58:00 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 96
+jason's strength is: 10
+jason has taken: -4 damage from Player 2
+Total Health is: 96
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 60
+No one has won yet. 
+

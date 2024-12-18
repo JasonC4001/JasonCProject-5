@@ -1,23 +1,30 @@
 using System.Diagnostics.Eventing.Reader;
 using System.Drawing.Text;
 using System.Windows.Forms.VisualStyles;
-//Jason Chen 
+
+//Name: Jason Chen 
+//Prof. Frary 
+//CIS 152
 
 namespace JasonCProject_5
 {
     public partial class Form1 : Form
     {
-        //starting health of player 1
-        private int p1Health, p1Strength, p1DamageTaken, p1HealthLeft, p1DamageTakenTotal;
-
+        //health, strength, and damage taken of player 1 
+        private int p1Health, p1Strength, p1DamageTaken, p1DamageTakenTotal;
+        
         //Intital starting health and strength for Player 2
         private int p2Health = 80;
         private int p2Strength = 12;
 
+        //Random number for p2health and p2Strength
+        private Random p2RandomHealth = new Random();
+        private Random p2RandomStrength  = new Random();
+        
         private string PowerUps;
-        const string P1_HEALTH = "Add Health";
-        const string P1_STRENGTH = "Add Strength";
-        const string P1_NORMAL = "No Power Ups";
+        const string P1_HEALTH = "ADD HEALTH";
+        const string P1_STRENGTH = "ADD STRENGTH";
+        const string P1_NORMAL = "NO POWER UP";
         private string TradingGameLog = "TradingGameLog.txt";
         public string CardGameConfig = "CardGameConfig.txt";
 
@@ -25,7 +32,7 @@ namespace JasonCProject_5
         private int strengthPowerUpAmount = 15;
         private int normalPowerUpAmount = 0;
 
-        //declared Form2
+        //declare Form2
         private Form2 SettingsForm;
 
         public int HealthPowerUpAmount
@@ -64,6 +71,7 @@ namespace JasonCProject_5
 
         private void btnQuit_Click(object sender, EventArgs e)
         {
+            //Asks for confirmation if user really wants to quit. 
             DialogResult ButtonSelected;
             ButtonSelected = MessageBox.Show("Are you sure you want to Quit?", "Quitting...", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
             // This will quit the form. Quitting the form doesn't always closes the program
@@ -71,11 +79,20 @@ namespace JasonCProject_5
             {
                 this.Close();
             }
-
         }
-
         private void btnClearAll_Click(object sender, EventArgs e)
         {
+            //Set p2Health and p2Strength to 0 so it can generate new values for a new game. 
+            p2Health = 0;
+            p2Strength = 0;
+
+            //Resets all P1 damage taken to 0 for new game. 
+            p1DamageTaken = 0;
+
+            //Allows users to enter new values after clicking 'Clear All'.
+            txtPlayer1Health.ReadOnly = false;
+            txtPlayer1AttackStrength.ReadOnly = false;
+
             //Clears all textbox and listbox when user clicks the 'Clear All' button. 
             txtPlayer1Name.Clear();
             txtPlayer1Health.Clear();
@@ -85,32 +102,33 @@ namespace JasonCProject_5
             //Brings focus into Player 1 Name Textbox and the Radio Health button if user selected another radio button. 
             txtPlayer1Name.Focus();
             rdoHealth.Focus();
-
+     
+            //Generates new values for Player's 2 health and strength for the new game 
+            if (p2Health <= 0 && p2Strength <=0)
+            {
+                p2Health = p2RandomHealth.Next(80, 300);
+                p2Strength = p2RandomStrength.Next(10, 150);
+            }
             
-            p1HealthLeft = 0;
-            p1DamageTaken = 0;
-
-            //Resets Player's 2 health back to 100
-            p2Health = 80;
+            //Changes the string inside the textbox for Player's 2 health and strength 
+            txtPlayer2Health.Text = p2Health.ToString();
+            txtPlayer2AttackStrength.Text = p2Strength.ToString();
         }
 
         private void btnCalculateHealth_Click(object sender, EventArgs e)
         {
-            //Calculate the starting health of both players, then add or subtract depending on each player's attack strength.
+            string p1Name, p2Name;
+            bool healthValid, strengthValid;
 
-            // h = Health, s = Strength
+            // h = Health, s = Strength, n = Normal
             int hPowerUpAmount = 0;
             int sPowerUpAmount = 0;
             int nPowerUpAmount = 0;
-
-            string p1Name, p2Name;
-            bool healthValid, strengthValid;
     
-
             //declaring the StreamWriter
             StreamWriter sw;
 
-            //Input
+            //Input (Note: p2Name is not in use since the text boxes for player 2 inputs are set to 'readonly' and they are randomly generated values. 
             p1Name = txtPlayer1Name.Text;
             p2Name = txtPlayer2Name.Text;
 
@@ -120,6 +138,11 @@ namespace JasonCProject_5
 
             if (healthValid && strengthValid)
             {
+                //prevents players from modifing the values after starting the game and calculating the health.
+                //To restart with new value, user must start a new game by clicking 'Clear All'. 
+                txtPlayer1Health.ReadOnly = true;  
+                txtPlayer1AttackStrength.ReadOnly = true;
+
                 switch (PowerUps)
                 {
                     case P1_HEALTH:
@@ -137,24 +160,29 @@ namespace JasonCProject_5
                 }
 
                 //processing (Add or subtract each player's health depending on each player's strength.) 
+
                 //Player 1 Strength adds if player selects 'Add Strength' Radio button
                 p1Strength += sPowerUpAmount;
 
-                //Player 1 decrease each round based on player's 2 attack strength until a player wins or ties. 
+                //IGNORE
                 //p1DamageTaken -= p2Strength;
                 //p1HealthLeft = p1Health + (p1DamageTaken - hPowerUpAmount);
-
-                p1DamageTakenTotal = hPowerUpAmount - p2Strength;
-                p1DamageTaken += hPowerUpAmount - p2Strength;
-
                 //p1HealthLeft += hPowerUpAmount;
+
+                //Calculates and hold the value of how muhc P1 damage has taken for output. 
+                p1DamageTakenTotal = hPowerUpAmount - p2Strength;
+
+                //Player 1 decrease each round based on player's 2 attack strength until a player wins or ties. 
+                p1DamageTaken += hPowerUpAmount - p2Strength;
                 p1Health += p1DamageTaken;
                 
-
                 //Brings inital Player 2 health, saves p2 health from previous rounds, and continues to decrease each round until a player wins or ties. 
                 p2Health -= p1Strength;
 
-                //output
+                //After each round, the number in the player's 2 health textbox changes to the corresponding health value
+                txtPlayer2Health.Text = p2Health.ToString();
+
+                //output (Note: 'lstOut.Items.Add("");' are blank lines so it's not too clustered inside the form. 
                 lstOut.Items.Add("Player's 1 Name is: " + p1Name);
                 lstOut.Items.Add("Power Up Selected: " + PowerUps);
                 lstOut.Items.Add("Power Up Amount (Health): " + hPowerUpAmount);
@@ -162,29 +190,31 @@ namespace JasonCProject_5
                 lstOut.Items.Add(p1Name + "'s health is: " + p1Health);
                 lstOut.Items.Add(p1Name + "'s strength is: " + p1Strength);
                 lstOut.Items.Add(p1Name + " has taken: " + p1DamageTakenTotal + " damage from Player 2");
-                lstOut.Items.Add("Total Health is: " + p1Health);
-                lstOut.Items.Add("");
                 lstOut.Items.Add("Player 1 dealt " + p1Strength + " damage to Player 2!");
-                lstOut.Items.Add("Player 2 has " + p2Health);
-
-
+                lstOut.Items.Add("");
+                lstOut.Items.Add("Player's 1 remaining Health is: " + p1Health);
+                lstOut.Items.Add("Player 2 has " + p2Health + " health remaining");
+     
+                //Output determines if a player has won, or both has died and tied. 
                 if (p1Health <= 0 && p2Health <= 0)
                 {
-                    lstOut.Items.Add("It's a tie!" +
-                        "");
+                    lstOut.Items.Add("It's a tie!");
+                    lstOut.Items.Add("");
                 }
                 else if (p1Health <= 0)
                 {
                     lstOut.Items.Add("Player 2 Wins! ");
+                    lstOut.Items.Add("");
                 }
                 else if (p2Health <= 0)
                 {
                     lstOut.Items.Add("Player 1 Wins!");
+                    lstOut.Items.Add("");
                 }
                 else
                 {
                     lstOut.Items.Add("No one has won yet.");
-                    
+                    lstOut.Items.Add("");
                 }
 
                 //Saves results to seperate file. 
@@ -198,26 +228,30 @@ namespace JasonCProject_5
                 sw.WriteLine(p1Name + "'s health is: " + p1Health);
                 sw.WriteLine(p1Name + "'s strength is: " + p1Strength);
                 sw.WriteLine(p1Name + " has taken: " + p1DamageTaken + " damage from Player 2");
-                sw.WriteLine("Total Health is: " + p1Health);
+                sw.WriteLine("Player's 1 remaining Health is: " + p1Health);
                 sw.WriteLine("");
                 sw.WriteLine("Player 1 dealt " + p1Strength + " damage to Player 2!");
-                sw.WriteLine("Player 2 has " + p2Health);
+                sw.WriteLine("Player 2 has " + p2Health + " health remaining");
 
                 if (p1Health <= 0 && p2Health <= 0)
                 {
                     sw.WriteLine("It's a tie!");
+                    sw.WriteLine("");
                 }
                 else if (p1Health <= 0)
                 {
                     sw.WriteLine("Player 2 Wins!");
+                    sw.WriteLine("");
                 }
                 else if (p2Health <= 0)
                 {
                     sw.WriteLine("Player 1 Wins!");
+                    sw.WriteLine("");
                 }
                 else
                 {
-                    sw.WriteLine($"No one has won yet. \n");
+                    sw.WriteLine("No one has won yet.");
+                    sw.WriteLine("");
                 }
 
                 sw.Close();
@@ -381,7 +415,8 @@ namespace JasonCProject_5
 
         private void button1_Click(object sender, EventArgs e)
         {
-            const int MAX_LOG_SIZE = 2000;
+            //increased from 2000 to 10000
+            const int MAX_LOG_SIZE = 10000;
 
             string[] TradingLineLog = new string[MAX_LOG_SIZE];
 
@@ -400,15 +435,13 @@ namespace JasonCProject_5
             {
                 if (TradingLineLog[i] == "Power Up Selected: " + PowerUps) 
                 {
-                    for (int j = i-2; j <= i + 10; j++)
+                    for (int j = i-2; j <= i + 11; j++)
                     {
                         lstOut.Items.Add(TradingLineLog[j]);
                     }
 
                 }
             }
-
-
         }
     }
 }

@@ -8,6 +8,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//Name: Jason Chen 
+//Prof. Frary 
+//CIS 152
+
 namespace JasonCProject_5
 {
     public partial class Form2 : Form
@@ -35,7 +39,7 @@ namespace JasonCProject_5
 
             healthValid = int.TryParse(txtHealthValue.Text, out hTempValue);
             strengthValid = int.TryParse(txtStrengthValue.Text, out sTempValue);
-            normalValid = int.TryParse(txtNormalValue.Text, out nTempValue);  
+            normalValid = int.TryParse(txtNormalValue.Text, out nTempValue);
 
             if (healthValid && strengthValid && normalValid)
             {
@@ -62,7 +66,12 @@ namespace JasonCProject_5
                 //replace all text box values with current values
                 ff.setValuesOnSecondForm();
             }
-           
+
+        }
+
+        private void lblConfigSettings_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

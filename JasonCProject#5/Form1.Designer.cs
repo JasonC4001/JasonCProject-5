@@ -61,7 +61,7 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label1.ForeColor = Color.Red;
+            label1.ForeColor = Color.Blue;
             label1.LiveSetting = System.Windows.Forms.Automation.AutomationLiveSetting.Assertive;
             label1.Location = new Point(353, 9);
             label1.MinimumSize = new Size(115, 20);
@@ -235,7 +235,7 @@
             groupBox1.Size = new Size(890, 71);
             groupBox1.TabIndex = 17;
             groupBox1.TabStop = false;
-            groupBox1.Text = "Player 1 Power Ups";
+            groupBox1.Text = "Player 1 Power Ups (Per Round)";
             groupBox1.Enter += groupBox1_Enter;
             // 
             // rdoNormal
@@ -300,7 +300,7 @@
             btnDisplayLogPOwer.Name = "btnDisplayLogPOwer";
             btnDisplayLogPOwer.Size = new Size(194, 69);
             btnDisplayLogPOwer.TabIndex = 19;
-            btnDisplayLogPOwer.Text = "Display Logs for Selected PowerUps";
+            btnDisplayLogPOwer.Text = "&Display Logs for Selected PowerUps";
             btnDisplayLogPOwer.UseVisualStyleBackColor = true;
             btnDisplayLogPOwer.Click += button1_Click;
             // 
@@ -331,7 +331,7 @@
             Controls.Add(menuStrip1);
             MainMenuStrip = menuStrip1;
             Name = "Form1";
-            Text = "Trading Card Game";
+            Text = "Form 1 - Jason Chen ";
             Load += Form1_Load;
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();

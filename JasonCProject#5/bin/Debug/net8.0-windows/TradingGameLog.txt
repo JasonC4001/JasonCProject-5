@@ -312,3 +312,4035 @@ Player 1 dealt 10 damage to Player 2!
 Player 2 has 60
 No one has won yet. 
 
+************Beginning of Game Log at 12/18/2024 10:33:21 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:33:22 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 96
+jason's strength is: 10
+jason has taken: -4 damage from Player 2
+Player's 1 remaining Health is: 96
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 60
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:33:24 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 94
+jason's strength is: 10
+jason has taken: -6 damage from Player 2
+Player's 1 remaining Health is: 94
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 50
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:33:25 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 92
+jason's strength is: 10
+jason has taken: -8 damage from Player 2
+Player's 1 remaining Health is: 92
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 40
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:33:29 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason's health is: 80
+jason's strength is: 30
+jason has taken: -20 damage from Player 2
+Player's 1 remaining Health is: 80
+
+Player 1 dealt 30 damage to Player 2!
+Player 2 has 10
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:33:31 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason's health is: 68
+jason's strength is: 30
+jason has taken: -32 damage from Player 2
+Player's 1 remaining Health is: 68
+
+Player 1 dealt 30 damage to Player 2!
+Player 2 has -20
+Player 1 Wins!
+
+************Beginning of Game Log at 12/18/2024 10:33:43 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:33:44 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 96
+jason's strength is: 10
+jason has taken: -4 damage from Player 2
+Player's 1 remaining Health is: 96
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 60
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:33:45 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 94
+jason's strength is: 10
+jason has taken: -6 damage from Player 2
+Player's 1 remaining Health is: 94
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 50
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:33:45 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 92
+jason's strength is: 10
+jason has taken: -8 damage from Player 2
+Player's 1 remaining Health is: 92
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 40
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:33:46 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 90
+jason's strength is: 10
+jason has taken: -10 damage from Player 2
+Player's 1 remaining Health is: 90
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 30
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:33:46 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 88
+jason's strength is: 10
+jason has taken: -12 damage from Player 2
+Player's 1 remaining Health is: 88
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 20
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:33:47 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 86
+jason's strength is: 10
+jason has taken: -14 damage from Player 2
+Player's 1 remaining Health is: 86
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 10
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:33:49 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 84
+jason's strength is: 10
+jason has taken: -16 damage from Player 2
+Player's 1 remaining Health is: 84
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 0
+Player 1 Wins!
+
+************Beginning of Game Log at 12/18/2024 10:33:50 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 82
+jason's strength is: 10
+jason has taken: -18 damage from Player 2
+Player's 1 remaining Health is: 82
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has -10
+Player 1 Wins!
+
+************Beginning of Game Log at 12/18/2024 10:34:01 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason's health is: 188
+jason's strength is: 25
+jason has taken: -12 damage from Player 2
+Player's 1 remaining Health is: 188
+
+Player 1 dealt 25 damage to Player 2!
+Player 2 has 55
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:34:03 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason's health is: 176
+jason's strength is: 25
+jason has taken: -24 damage from Player 2
+Player's 1 remaining Health is: 176
+
+Player 1 dealt 25 damage to Player 2!
+Player 2 has 30
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:34:04 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason's health is: 164
+jason's strength is: 25
+jason has taken: -36 damage from Player 2
+Player's 1 remaining Health is: 164
+
+Player 1 dealt 25 damage to Player 2!
+Player 2 has 5
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:34:06 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason's health is: 152
+jason's strength is: 25
+jason has taken: -48 damage from Player 2
+Player's 1 remaining Health is: 152
+
+Player 1 dealt 25 damage to Player 2!
+Player 2 has -20
+Player 1 Wins!
+
+************Beginning of Game Log at 12/18/2024 10:34:08 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason's health is: 140
+jason's strength is: 25
+jason has taken: -60 damage from Player 2
+Player's 1 remaining Health is: 140
+
+Player 1 dealt 25 damage to Player 2!
+Player 2 has -45
+Player 1 Wins!
+
+************Beginning of Game Log at 12/18/2024 10:34:14 AM************
+Player's 1 Name is: jason
+Power Up Selected: No Power Ups
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+jason's health is: 88
+jason's strength is: 10
+jason has taken: -12 damage from Player 2
+Player's 1 remaining Health is: 88
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:34:15 AM************
+Player's 1 Name is: jason
+Power Up Selected: No Power Ups
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+jason's health is: 76
+jason's strength is: 10
+jason has taken: -24 damage from Player 2
+Player's 1 remaining Health is: 76
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 60
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:34:16 AM************
+Player's 1 Name is: jason
+Power Up Selected: No Power Ups
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+jason's health is: 64
+jason's strength is: 10
+jason has taken: -36 damage from Player 2
+Player's 1 remaining Health is: 64
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 50
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:34:17 AM************
+Player's 1 Name is: jason
+Power Up Selected: No Power Ups
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+jason's health is: 52
+jason's strength is: 10
+jason has taken: -48 damage from Player 2
+Player's 1 remaining Health is: 52
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 40
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:34:18 AM************
+Player's 1 Name is: jason
+Power Up Selected: No Power Ups
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+jason's health is: 40
+jason's strength is: 10
+jason has taken: -60 damage from Player 2
+Player's 1 remaining Health is: 40
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 30
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:34:19 AM************
+Player's 1 Name is: jason
+Power Up Selected: No Power Ups
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+jason's health is: 28
+jason's strength is: 10
+jason has taken: -72 damage from Player 2
+Player's 1 remaining Health is: 28
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 20
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:34:20 AM************
+Player's 1 Name is: jason
+Power Up Selected: No Power Ups
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+jason's health is: 16
+jason's strength is: 10
+jason has taken: -84 damage from Player 2
+Player's 1 remaining Health is: 16
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 10
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:34:21 AM************
+Player's 1 Name is: jason
+Power Up Selected: No Power Ups
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+jason's health is: 4
+jason's strength is: 10
+jason has taken: -96 damage from Player 2
+Player's 1 remaining Health is: 4
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 0
+Player 1 Wins!
+
+************Beginning of Game Log at 12/18/2024 10:34:26 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:34:28 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 96
+jason's strength is: 10
+jason has taken: -4 damage from Player 2
+Player's 1 remaining Health is: 96
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 60
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:34:29 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 94
+jason's strength is: 10
+jason has taken: -6 damage from Player 2
+Player's 1 remaining Health is: 94
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 50
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:34:30 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 92
+jason's strength is: 10
+jason has taken: -8 damage from Player 2
+Player's 1 remaining Health is: 92
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 40
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:34:31 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 90
+jason's strength is: 10
+jason has taken: -10 damage from Player 2
+Player's 1 remaining Health is: 90
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 30
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:34:32 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 88
+jason's strength is: 10
+jason has taken: -12 damage from Player 2
+Player's 1 remaining Health is: 88
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 20
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:34:33 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 86
+jason's strength is: 10
+jason has taken: -14 damage from Player 2
+Player's 1 remaining Health is: 86
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 10
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:34:34 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 84
+jason's strength is: 10
+jason has taken: -16 damage from Player 2
+Player's 1 remaining Health is: 84
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 0
+Player 1 Wins!
+
+************Beginning of Game Log at 12/18/2024 10:34:41 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason's health is: 88
+jason's strength is: 30
+jason has taken: -12 damage from Player 2
+Player's 1 remaining Health is: 88
+
+Player 1 dealt 30 damage to Player 2!
+Player 2 has 50
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:34:42 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason's health is: 76
+jason's strength is: 30
+jason has taken: -24 damage from Player 2
+Player's 1 remaining Health is: 76
+
+Player 1 dealt 30 damage to Player 2!
+Player 2 has 20
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:34:44 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason's health is: 64
+jason's strength is: 30
+jason has taken: -36 damage from Player 2
+Player's 1 remaining Health is: 64
+
+Player 1 dealt 30 damage to Player 2!
+Player 2 has -10
+Player 1 Wins!
+
+************Beginning of Game Log at 12/18/2024 10:36:01 AM************
+Player's 1 Name is: strength
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+strength's health is: 88
+strength's strength is: 22
+strength has taken: -12 damage from Player 2
+Player's 1 remaining Health is: 88
+
+Player 1 dealt 22 damage to Player 2!
+Player 2 has 58
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:36:02 AM************
+Player's 1 Name is: strength
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+strength's health is: 76
+strength's strength is: 22
+strength has taken: -24 damage from Player 2
+Player's 1 remaining Health is: 76
+
+Player 1 dealt 22 damage to Player 2!
+Player 2 has 36
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:36:03 AM************
+Player's 1 Name is: strength
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+strength's health is: 64
+strength's strength is: 22
+strength has taken: -36 damage from Player 2
+Player's 1 remaining Health is: 64
+
+Player 1 dealt 22 damage to Player 2!
+Player 2 has 14
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:36:04 AM************
+Player's 1 Name is: strength
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+strength's health is: 52
+strength's strength is: 22
+strength has taken: -48 damage from Player 2
+Player's 1 remaining Health is: 52
+
+Player 1 dealt 22 damage to Player 2!
+Player 2 has -8
+Player 1 Wins!
+
+************Beginning of Game Log at 12/18/2024 10:41:04 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 15
+Power Up Amount (Strength): 0
+jason's health is: 103
+jason's strength is: 10
+jason has taken: 3 damage from Player 2
+Player's 1 remaining Health is: 103
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:41:12 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 15
+Power Up Amount (Strength): 0
+jason's health is: 106
+jason's strength is: 10
+jason has taken: 6 damage from Player 2
+Player's 1 remaining Health is: 106
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 60
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:41:14 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 15
+Power Up Amount (Strength): 0
+jason's health is: 109
+jason's strength is: 10
+jason has taken: 9 damage from Player 2
+Player's 1 remaining Health is: 109
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 50
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:41:19 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 15
+Power Up Amount (Strength): 0
+jason's health is: 112
+jason's strength is: 10
+jason has taken: 12 damage from Player 2
+Player's 1 remaining Health is: 112
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 40
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:41:21 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 15
+Power Up Amount (Strength): 0
+jason's health is: 115
+jason's strength is: 10
+jason has taken: 15 damage from Player 2
+Player's 1 remaining Health is: 115
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 30
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:41:24 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 15
+Power Up Amount (Strength): 0
+jason's health is: 118
+jason's strength is: 10
+jason has taken: 18 damage from Player 2
+Player's 1 remaining Health is: 118
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 20
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:41:26 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 15
+Power Up Amount (Strength): 0
+jason's health is: 121
+jason's strength is: 10
+jason has taken: 21 damage from Player 2
+Player's 1 remaining Health is: 121
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 10
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:45:30 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 15
+Power Up Amount (Strength): 0
+jason's health is: 103
+jason's strength is: 10
+jason has taken: 3 damage from Player 2
+Player's 1 remaining Health is: 103
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:45:32 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 15
+Power Up Amount (Strength): 0
+jason's health is: 106
+jason's strength is: 10
+jason has taken: 6 damage from Player 2
+Player's 1 remaining Health is: 106
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 60
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:45:33 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 15
+Power Up Amount (Strength): 0
+jason's health is: 109
+jason's strength is: 10
+jason has taken: 9 damage from Player 2
+Player's 1 remaining Health is: 109
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 50
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:45:41 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 107
+jason's strength is: 10
+jason has taken: 7 damage from Player 2
+Player's 1 remaining Health is: 107
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 40
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:45:42 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 105
+jason's strength is: 10
+jason has taken: 5 damage from Player 2
+Player's 1 remaining Health is: 105
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 30
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:45:44 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 103
+jason's strength is: 10
+jason has taken: 3 damage from Player 2
+Player's 1 remaining Health is: 103
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 20
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:45:45 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 101
+jason's strength is: 10
+jason has taken: 1 damage from Player 2
+Player's 1 remaining Health is: 101
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 10
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:45:46 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 99
+jason's strength is: 10
+jason has taken: -1 damage from Player 2
+Player's 1 remaining Health is: 99
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 0
+Player 1 Wins!
+
+************Beginning of Game Log at 12/18/2024 10:49:46 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:49:47 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 96
+jason's strength is: 10
+jason has taken: -4 damage from Player 2
+Player's 1 remaining Health is: 96
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 60
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:49:48 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 94
+jason's strength is: 10
+jason has taken: -6 damage from Player 2
+Player's 1 remaining Health is: 94
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 50
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:49:49 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 92
+jason's strength is: 10
+jason has taken: -8 damage from Player 2
+Player's 1 remaining Health is: 92
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 40
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:49:50 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 90
+jason's strength is: 10
+jason has taken: -10 damage from Player 2
+Player's 1 remaining Health is: 90
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 30
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:49:52 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason's health is: 78
+jason's strength is: 30
+jason has taken: -22 damage from Player 2
+Player's 1 remaining Health is: 78
+
+Player 1 dealt 30 damage to Player 2!
+Player 2 has 0
+Player 1 Wins!
+
+************Beginning of Game Log at 12/18/2024 10:49:59 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason's health is: 88
+jason's strength is: 30
+jason has taken: -12 damage from Player 2
+Player's 1 remaining Health is: 88
+
+Player 1 dealt 30 damage to Player 2!
+Player 2 has 50
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:50:00 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason's health is: 76
+jason's strength is: 30
+jason has taken: -24 damage from Player 2
+Player's 1 remaining Health is: 76
+
+Player 1 dealt 30 damage to Player 2!
+Player 2 has 20
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:50:00 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason's health is: 64
+jason's strength is: 30
+jason has taken: -36 damage from Player 2
+Player's 1 remaining Health is: 64
+
+Player 1 dealt 30 damage to Player 2!
+Player 2 has -10
+Player 1 Wins!
+
+************Beginning of Game Log at 12/18/2024 10:50:14 AM************
+Player's 1 Name is: jason
+Power Up Selected: No Power Ups
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+jason's health is: 68
+jason's strength is: 12
+jason has taken: -12 damage from Player 2
+Player's 1 remaining Health is: 68
+
+Player 1 dealt 12 damage to Player 2!
+Player 2 has 68
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:50:15 AM************
+Player's 1 Name is: jason
+Power Up Selected: No Power Ups
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+jason's health is: 56
+jason's strength is: 12
+jason has taken: -24 damage from Player 2
+Player's 1 remaining Health is: 56
+
+Player 1 dealt 12 damage to Player 2!
+Player 2 has 56
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:50:16 AM************
+Player's 1 Name is: jason
+Power Up Selected: No Power Ups
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+jason's health is: 44
+jason's strength is: 12
+jason has taken: -36 damage from Player 2
+Player's 1 remaining Health is: 44
+
+Player 1 dealt 12 damage to Player 2!
+Player 2 has 44
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:50:17 AM************
+Player's 1 Name is: jason
+Power Up Selected: No Power Ups
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+jason's health is: 32
+jason's strength is: 12
+jason has taken: -48 damage from Player 2
+Player's 1 remaining Health is: 32
+
+Player 1 dealt 12 damage to Player 2!
+Player 2 has 32
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:50:18 AM************
+Player's 1 Name is: jason
+Power Up Selected: No Power Ups
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+jason's health is: 20
+jason's strength is: 12
+jason has taken: -60 damage from Player 2
+Player's 1 remaining Health is: 20
+
+Player 1 dealt 12 damage to Player 2!
+Player 2 has 20
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:50:19 AM************
+Player's 1 Name is: jason
+Power Up Selected: No Power Ups
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+jason's health is: 8
+jason's strength is: 12
+jason has taken: -72 damage from Player 2
+Player's 1 remaining Health is: 8
+
+Player 1 dealt 12 damage to Player 2!
+Player 2 has 8
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:50:20 AM************
+Player's 1 Name is: jason
+Power Up Selected: No Power Ups
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+jason's health is: -4
+jason's strength is: 12
+jason has taken: -84 damage from Player 2
+Player's 1 remaining Health is: -4
+
+Player 1 dealt 12 damage to Player 2!
+Player 2 has -4
+It's a tie!
+
+************Beginning of Game Log at 12/18/2024 10:50:30 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 73
+jason's strength is: 21
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 73
+
+Player 1 dealt 21 damage to Player 2!
+Player 2 has 59
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:50:31 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 71
+jason's strength is: 21
+jason has taken: -4 damage from Player 2
+Player's 1 remaining Health is: 71
+
+Player 1 dealt 21 damage to Player 2!
+Player 2 has 38
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:50:32 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 69
+jason's strength is: 21
+jason has taken: -6 damage from Player 2
+Player's 1 remaining Health is: 69
+
+Player 1 dealt 21 damage to Player 2!
+Player 2 has 17
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:50:33 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 67
+jason's strength is: 21
+jason has taken: -8 damage from Player 2
+Player's 1 remaining Health is: 67
+
+Player 1 dealt 21 damage to Player 2!
+Player 2 has -4
+Player 1 Wins!
+
+************Beginning of Game Log at 12/18/2024 10:50:44 AM************
+Player's 1 Name is: jason
+Power Up Selected: No Power Ups
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+jason's health is: 30
+jason's strength is: 59
+jason has taken: -12 damage from Player 2
+Player's 1 remaining Health is: 30
+
+Player 1 dealt 59 damage to Player 2!
+Player 2 has 21
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:50:45 AM************
+Player's 1 Name is: jason
+Power Up Selected: No Power Ups
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+jason's health is: 18
+jason's strength is: 59
+jason has taken: -24 damage from Player 2
+Player's 1 remaining Health is: 18
+
+Player 1 dealt 59 damage to Player 2!
+Player 2 has -38
+Player 1 Wins!
+
+************Beginning of Game Log at 12/18/2024 10:51:04 AM************
+Player's 1 Name is: jason
+Power Up Selected: No Power Ups
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+jason's health is: -10
+jason's strength is: 80
+jason has taken: -12 damage from Player 2
+Player's 1 remaining Health is: -10
+
+Player 1 dealt 80 damage to Player 2!
+Player 2 has 0
+It's a tie!
+
+************Beginning of Game Log at 12/18/2024 10:52:29 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 8
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 8
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 10:52:33 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Strength
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason's health is: -4
+jason's strength is: 30
+jason has taken: -14 damage from Player 2
+Player's 1 remaining Health is: -4
+
+Player 1 dealt 30 damage to Player 2!
+Player 2 has 40
+Player 2 Wins!
+
+************Beginning of Game Log at 12/18/2024 11:00:10 AM************
+Player's 1 Name is: jasn
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jasn's health is: 98
+jasn's strength is: 10
+jasn has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:00:16 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 1
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 1 damage to Player 2!
+Player 2 has 69
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:00:22 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 96
+jason's strength is: 1
+jason has taken: -4 damage from Player 2
+Player's 1 remaining Health is: 96
+
+Player 1 dealt 1 damage to Player 2!
+Player 2 has 68
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:02:24 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 106
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 106
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:02:24 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 104
+jason's strength is: 10
+jason has taken: -4 damage from Player 2
+Player's 1 remaining Health is: 104
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 60
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:02:31 AM************
+Player's 1 Name is: 
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+'s health is: 47
+'s strength is: 10
+ has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 47
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 50
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:04:15 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:04:16 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 96
+jason's strength is: 10
+jason has taken: -4 damage from Player 2
+Player's 1 remaining Health is: 96
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 60
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:04:19 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 8
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:04:21 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 96
+jason's strength is: 10
+jason has taken: -4 damage from Player 2
+Player's 1 remaining Health is: 96
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has -2
+Player 1 Wins!
+
+************Beginning of Game Log at 12/18/2024 11:05:37 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:05:40 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 17
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:06:09 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:06:12 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 96
+jason's strength is: 10
+jason has taken: -4 damage from Player 2
+Player's 1 remaining Health is: 96
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 60
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:06:19 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 110
+jason's strength is: 10
+jason has taken: 10 damage from Player 2
+Player's 1 remaining Health is: 110
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 17
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:06:24 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 120
+jason's strength is: 10
+jason has taken: 20 damage from Player 2
+Player's 1 remaining Health is: 120
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 7
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:06:43 AM************
+Player's 1 Name is: j=
+Power Up Selected: No Power Ups
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+j='s health is: 100
+j='s strength is: 10
+j= has taken: 0 damage from Player 2
+Player's 1 remaining Health is: 100
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 2
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:06:48 AM************
+Player's 1 Name is: j=
+Power Up Selected: No Power Ups
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+j='s health is: 100
+j='s strength is: 10
+j= has taken: 0 damage from Player 2
+Player's 1 remaining Health is: 100
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has -8
+Player 1 Wins!
+
+************Beginning of Game Log at 12/18/2024 11:07:05 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:07:06 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 96
+jason's strength is: 10
+jason has taken: -4 damage from Player 2
+Player's 1 remaining Health is: 96
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 60
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:07:10 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 90
+jason's strength is: 10
+jason has taken: -10 damage from Player 2
+Player's 1 remaining Health is: 90
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 188
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:07:13 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 80
+jason's strength is: 10
+jason has taken: -20 damage from Player 2
+Player's 1 remaining Health is: 80
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 178
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:07:16 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 70
+jason's strength is: 10
+jason has taken: -30 damage from Player 2
+Player's 1 remaining Health is: 70
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 168
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:07:20 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 83
+jason's strength is: 10
+jason has taken: -17 damage from Player 2
+Player's 1 remaining Health is: 83
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 273
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:07:50 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:07:57 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 84
+jason's strength is: 10
+jason has taken: -16 damage from Player 2
+Player's 1 remaining Health is: 84
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 100
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:07:59 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 68
+jason's strength is: 10
+jason has taken: -32 damage from Player 2
+Player's 1 remaining Health is: 68
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 90
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:08:03 AM************
+Player's 1 Name is: jason 
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason 's health is: 31
+jason 's strength is: 10
+jason  has taken: -9 damage from Player 2
+Player's 1 remaining Health is: 31
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 216
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:09:11 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:09:16 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 100
+jason's strength is: 10
+jason has taken: 0 damage from Player 2
+Player's 1 remaining Health is: 100
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 129
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:09:20 AM************
+Player's 1 Name is: jason
+Power Up Selected: Add Health
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 84
+jason's strength is: 10
+jason has taken: -16 damage from Player 2
+Player's 1 remaining Health is: 84
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 260
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:14:14 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:14:24 AM************
+Player's 1 Name is: jason 
+Power Up Selected: ADD STRENGTH
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason 's health is: 376
+jason 's strength is: 52
+jason  has taken: -16 damage from Player 2
+Player's 1 remaining Health is: 376
+
+Player 1 dealt 52 damage to Player 2!
+Player 2 has 66
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:14:25 AM************
+Player's 1 Name is: jason 
+Power Up Selected: ADD STRENGTH
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason 's health is: 360
+jason 's strength is: 52
+jason  has taken: -32 damage from Player 2
+Player's 1 remaining Health is: 360
+
+Player 1 dealt 52 damage to Player 2!
+Player 2 has 14
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:14:26 AM************
+Player's 1 Name is: jason 
+Power Up Selected: ADD STRENGTH
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason 's health is: 344
+jason 's strength is: 52
+jason  has taken: -48 damage from Player 2
+Player's 1 remaining Health is: 344
+
+Player 1 dealt 52 damage to Player 2!
+Player 2 has -38
+Player 1 Wins!
+
+************Beginning of Game Log at 12/18/2024 11:24:00 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 8
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 8
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:24:03 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 6
+jason's strength is: 10
+jason has taken: -4 damage from Player 2
+Player's 1 remaining Health is: 6
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 60
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:24:07 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 4
+jason's strength is: 10
+jason has taken: -6 damage from Player 2
+Player's 1 remaining Health is: 4
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 50
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:29:57 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:30:02 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 96
+jason's strength is: 10
+jason has taken: -4 damage from Player 2
+Player's 1 remaining Health is: 96
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 60
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:30:05 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 94
+jason's strength is: 10
+jason has taken: -6 damage from Player 2
+Player's 1 remaining Health is: 94
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 50
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:30:12 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 92
+jason's strength is: 10
+jason has taken: -8 damage from Player 2
+Player's 1 remaining Health is: 92
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 40
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:30:13 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 90
+jason's strength is: 10
+jason has taken: -10 damage from Player 2
+Player's 1 remaining Health is: 90
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 30
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:30:15 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 88
+jason's strength is: 10
+jason has taken: -12 damage from Player 2
+Player's 1 remaining Health is: 88
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 20
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:30:23 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 86
+jason's strength is: 10
+jason has taken: -14 damage from Player 2
+Player's 1 remaining Health is: 86
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 10
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:30:24 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 84
+jason's strength is: 10
+jason has taken: -16 damage from Player 2
+Player's 1 remaining Health is: 84
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 0
+Player 1 Wins!
+
+************Beginning of Game Log at 12/18/2024 11:30:41 AM************
+Player's 1 Name is: jason 
+Power Up Selected: ADD STRENGTH
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason 's health is: 84
+jason 's strength is: 52
+jason  has taken: -66 damage from Player 2
+Player's 1 remaining Health is: 84
+
+Player 1 dealt 52 damage to Player 2!
+Player 2 has 120
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:32:06 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:32:10 AM************
+Player's 1 Name is: jason 
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason 's health is: -34
+jason 's strength is: 40
+jason  has taken: -134 damage from Player 2
+Player's 1 remaining Health is: -34
+
+Player 1 dealt 40 damage to Player 2!
+Player 2 has 73
+Player 2 Wins!
+
+************Beginning of Game Log at 12/18/2024 11:32:12 AM************
+Player's 1 Name is: jason 
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason 's health is: -168
+jason 's strength is: 40
+jason  has taken: -268 damage from Player 2
+Player's 1 remaining Health is: -168
+
+Player 1 dealt 40 damage to Player 2!
+Player 2 has 33
+Player 2 Wins!
+
+************Beginning of Game Log at 12/18/2024 11:32:14 AM************
+Player's 1 Name is: jason 
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason 's health is: -302
+jason 's strength is: 40
+jason  has taken: -402 damage from Player 2
+Player's 1 remaining Health is: -302
+
+Player 1 dealt 40 damage to Player 2!
+Player 2 has -7
+It's a tie!
+
+************Beginning of Game Log at 12/18/2024 11:32:15 AM************
+Player's 1 Name is: jason 
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason 's health is: -436
+jason 's strength is: 40
+jason  has taken: -536 damage from Player 2
+Player's 1 remaining Health is: -436
+
+Player 1 dealt 40 damage to Player 2!
+Player 2 has -47
+It's a tie!
+
+************Beginning of Game Log at 12/18/2024 11:32:55 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:32:58 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 94
+jason's strength is: 10
+jason has taken: -4 damage from Player 2
+Player's 1 remaining Health is: 94
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 60
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:32:59 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 88
+jason's strength is: 10
+jason has taken: -6 damage from Player 2
+Player's 1 remaining Health is: 88
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 50
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:33:00 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 80
+jason's strength is: 10
+jason has taken: -8 damage from Player 2
+Player's 1 remaining Health is: 80
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 40
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:33:05 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD STRENGTH
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason's health is: 2
+jason's strength is: 30
+jason has taken: -98 damage from Player 2
+Player's 1 remaining Health is: 2
+
+Player 1 dealt 30 damage to Player 2!
+Player 2 has 150
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:33:09 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD STRENGTH
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason's health is: -194
+jason's strength is: 30
+jason has taken: -196 damage from Player 2
+Player's 1 remaining Health is: -194
+
+Player 1 dealt 30 damage to Player 2!
+Player 2 has 120
+Player 2 Wins!
+
+************Beginning of Game Log at 12/18/2024 11:33:36 AM************
+Player's 1 Name is: jason 
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason 's health is: 475
+jason 's strength is: 21
+jason  has taken: -88 damage from Player 2
+Player's 1 remaining Health is: 475
+
+Player 1 dealt 21 damage to Player 2!
+Player 2 has 251
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:33:37 AM************
+Player's 1 Name is: jason 
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason 's health is: 299
+jason 's strength is: 21
+jason  has taken: -176 damage from Player 2
+Player's 1 remaining Health is: 299
+
+Player 1 dealt 21 damage to Player 2!
+Player 2 has 230
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:33:38 AM************
+Player's 1 Name is: jason 
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason 's health is: 35
+jason 's strength is: 21
+jason  has taken: -264 damage from Player 2
+Player's 1 remaining Health is: 35
+
+Player 1 dealt 21 damage to Player 2!
+Player 2 has 209
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:33:41 AM************
+Player's 1 Name is: jason 
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason 's health is: -317
+jason 's strength is: 21
+jason  has taken: -352 damage from Player 2
+Player's 1 remaining Health is: -317
+
+Player 1 dealt 21 damage to Player 2!
+Player 2 has 188
+Player 2 Wins!
+
+************Beginning of Game Log at 12/18/2024 11:33:55 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 84
+jason's strength is: 10
+jason has taken: -16 damage from Player 2
+Player's 1 remaining Health is: 84
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 77
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:33:56 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 52
+jason's strength is: 10
+jason has taken: -32 damage from Player 2
+Player's 1 remaining Health is: 52
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 67
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:33:59 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 4
+jason's strength is: 10
+jason has taken: -48 damage from Player 2
+Player's 1 remaining Health is: 4
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 57
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:34:18 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:34:19 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 96
+jason's strength is: 10
+jason has taken: -4 damage from Player 2
+Player's 1 remaining Health is: 96
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 60
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:34:21 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 94
+jason's strength is: 10
+jason has taken: -6 damage from Player 2
+Player's 1 remaining Health is: 94
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 50
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:34:23 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 92
+jason's strength is: 10
+jason has taken: -8 damage from Player 2
+Player's 1 remaining Health is: 92
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 40
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:34:23 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 90
+jason's strength is: 10
+jason has taken: -10 damage from Player 2
+Player's 1 remaining Health is: 90
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 30
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:34:24 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 88
+jason's strength is: 10
+jason has taken: -12 damage from Player 2
+Player's 1 remaining Health is: 88
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 20
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:34:25 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 86
+jason's strength is: 10
+jason has taken: -14 damage from Player 2
+Player's 1 remaining Health is: 86
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 10
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:34:43 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:34:45 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 96
+jason's strength is: 10
+jason has taken: -4 damage from Player 2
+Player's 1 remaining Health is: 96
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 60
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:34:45 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 94
+jason's strength is: 10
+jason has taken: -6 damage from Player 2
+Player's 1 remaining Health is: 94
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 50
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:34:46 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 92
+jason's strength is: 10
+jason has taken: -8 damage from Player 2
+Player's 1 remaining Health is: 92
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 40
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:34:46 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 90
+jason's strength is: 10
+jason has taken: -10 damage from Player 2
+Player's 1 remaining Health is: 90
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 30
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:34:47 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 88
+jason's strength is: 10
+jason has taken: -12 damage from Player 2
+Player's 1 remaining Health is: 88
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 20
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:34:47 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 86
+jason's strength is: 10
+jason has taken: -14 damage from Player 2
+Player's 1 remaining Health is: 86
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 10
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:34:48 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 84
+jason's strength is: 10
+jason has taken: -16 damage from Player 2
+Player's 1 remaining Health is: 84
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 0
+Player 1 Wins!
+
+************Beginning of Game Log at 12/18/2024 11:34:57 AM************
+Player's 1 Name is: jason 
+Power Up Selected: ADD STRENGTH
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason 's health is: 201
+jason 's strength is: 63
+jason  has taken: -142 damage from Player 2
+Player's 1 remaining Health is: 201
+
+Player 1 dealt 63 damage to Player 2!
+Player 2 has 216
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:34:59 AM************
+Player's 1 Name is: jason 
+Power Up Selected: ADD STRENGTH
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason 's health is: 59
+jason 's strength is: 63
+jason  has taken: -284 damage from Player 2
+Player's 1 remaining Health is: 59
+
+Player 1 dealt 63 damage to Player 2!
+Player 2 has 153
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:35:02 AM************
+Player's 1 Name is: jason 
+Power Up Selected: ADD STRENGTH
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason 's health is: -83
+jason 's strength is: 63
+jason  has taken: -426 damage from Player 2
+Player's 1 remaining Health is: -83
+
+Player 1 dealt 63 damage to Player 2!
+Player 2 has 90
+Player 2 Wins!
+
+************Beginning of Game Log at 12/18/2024 11:35:16 AM************
+Player's 1 Name is: jason 
+Power Up Selected: NO POWER UP
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+jason 's health is: 4270
+jason 's strength is: 10
+jason  has taken: -124 damage from Player 2
+Player's 1 remaining Health is: 4270
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 204
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:35:18 AM************
+Player's 1 Name is: jason 
+Power Up Selected: NO POWER UP
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+jason 's health is: 4146
+jason 's strength is: 10
+jason  has taken: -248 damage from Player 2
+Player's 1 remaining Health is: 4146
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 194
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:35:24 AM************
+Player's 1 Name is: jason 
+Power Up Selected: NO POWER UP
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+jason 's health is: 4022
+jason 's strength is: 10
+jason  has taken: -372 damage from Player 2
+Player's 1 remaining Health is: 4022
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 184
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:35:26 AM************
+Player's 1 Name is: jason 
+Power Up Selected: NO POWER UP
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+jason 's health is: 3898
+jason 's strength is: 10
+jason  has taken: -496 damage from Player 2
+Player's 1 remaining Health is: 3898
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 174
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:35:27 AM************
+Player's 1 Name is: jason 
+Power Up Selected: NO POWER UP
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+jason 's health is: 3774
+jason 's strength is: 10
+jason  has taken: -620 damage from Player 2
+Player's 1 remaining Health is: 3774
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 164
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:35:28 AM************
+Player's 1 Name is: jason 
+Power Up Selected: NO POWER UP
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+jason 's health is: 3650
+jason 's strength is: 10
+jason  has taken: -744 damage from Player 2
+Player's 1 remaining Health is: 3650
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 154
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:35:29 AM************
+Player's 1 Name is: jason 
+Power Up Selected: NO POWER UP
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+jason 's health is: 3526
+jason 's strength is: 10
+jason  has taken: -868 damage from Player 2
+Player's 1 remaining Health is: 3526
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 144
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:35:30 AM************
+Player's 1 Name is: jason 
+Power Up Selected: NO POWER UP
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 0
+jason 's health is: 3402
+jason 's strength is: 10
+jason  has taken: -992 damage from Player 2
+Player's 1 remaining Health is: 3402
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 134
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:36:03 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 998
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 998
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:36:05 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 66
+jason's strength is: 10
+jason has taken: -4 damage from Player 2
+Player's 1 remaining Health is: 66
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 60
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:36:06 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 54
+jason's strength is: 10
+jason has taken: -6 damage from Player 2
+Player's 1 remaining Health is: 54
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 50
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:36:07 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 42
+jason's strength is: 10
+jason has taken: -8 damage from Player 2
+Player's 1 remaining Health is: 42
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 40
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:36:10 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 30
+jason's strength is: 10
+jason has taken: -10 damage from Player 2
+Player's 1 remaining Health is: 30
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 30
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:36:23 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:36:24 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 94
+jason's strength is: 10
+jason has taken: -4 damage from Player 2
+Player's 1 remaining Health is: 94
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 60
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:36:25 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 88
+jason's strength is: 10
+jason has taken: -6 damage from Player 2
+Player's 1 remaining Health is: 88
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 50
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:36:26 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 80
+jason's strength is: 10
+jason has taken: -8 damage from Player 2
+Player's 1 remaining Health is: 80
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 40
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:36:27 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 70
+jason's strength is: 10
+jason has taken: -10 damage from Player 2
+Player's 1 remaining Health is: 70
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 30
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:36:30 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 58
+jason's strength is: 10
+jason has taken: -12 damage from Player 2
+Player's 1 remaining Health is: 58
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 20
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:36:32 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 44
+jason's strength is: 10
+jason has taken: -14 damage from Player 2
+Player's 1 remaining Health is: 44
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 10
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:36:36 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 28
+jason's strength is: 10
+jason has taken: -16 damage from Player 2
+Player's 1 remaining Health is: 28
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 0
+Player 1 Wins!
+
+************Beginning of Game Log at 12/18/2024 11:36:44 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 80
+jason's strength is: 10
+jason has taken: -20 damage from Player 2
+Player's 1 remaining Health is: 80
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 227
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:36:47 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 40
+jason's strength is: 10
+jason has taken: -40 damage from Player 2
+Player's 1 remaining Health is: 40
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 217
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:36:53 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:36:54 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 94
+jason's strength is: 10
+jason has taken: -4 damage from Player 2
+Player's 1 remaining Health is: 94
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 60
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:36:55 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 88
+jason's strength is: 10
+jason has taken: -6 damage from Player 2
+Player's 1 remaining Health is: 88
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 50
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:37:14 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 80
+jason's strength is: 10
+jason has taken: -8 damage from Player 2
+Player's 1 remaining Health is: 80
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 40
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:37:18 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 70
+jason's strength is: 10
+jason has taken: -10 damage from Player 2
+Player's 1 remaining Health is: 70
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 30
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:37:37 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:37:38 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 96
+jason's strength is: 10
+jason has taken: -4 damage from Player 2
+Player's 1 remaining Health is: 96
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 60
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:37:39 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 94
+jason's strength is: 10
+jason has taken: -6 damage from Player 2
+Player's 1 remaining Health is: 94
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 50
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:37:40 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 92
+jason's strength is: 10
+jason has taken: -8 damage from Player 2
+Player's 1 remaining Health is: 92
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 40
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:37:41 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 90
+jason's strength is: 10
+jason has taken: -10 damage from Player 2
+Player's 1 remaining Health is: 90
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 30
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:37:42 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 88
+jason's strength is: 10
+jason has taken: -12 damage from Player 2
+Player's 1 remaining Health is: 88
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 20
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:37:43 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 86
+jason's strength is: 10
+jason has taken: -14 damage from Player 2
+Player's 1 remaining Health is: 86
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 10
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:37:44 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 84
+jason's strength is: 10
+jason has taken: -16 damage from Player 2
+Player's 1 remaining Health is: 84
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 0
+Player 1 Wins!
+
+************Beginning of Game Log at 12/18/2024 11:37:45 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 82
+jason's strength is: 10
+jason has taken: -18 damage from Player 2
+Player's 1 remaining Health is: 82
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has -10
+Player 1 Wins!
+
+************Beginning of Game Log at 12/18/2024 11:38:13 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:38:14 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 96
+jason's strength is: 10
+jason has taken: -4 damage from Player 2
+Player's 1 remaining Health is: 96
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 60
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:38:18 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 94
+jason's strength is: 10
+jason has taken: -6 damage from Player 2
+Player's 1 remaining Health is: 94
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 50
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:38:22 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 92
+jason's strength is: 10
+jason has taken: -8 damage from Player 2
+Player's 1 remaining Health is: 92
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 40
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:38:23 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 90
+jason's strength is: 10
+jason has taken: -10 damage from Player 2
+Player's 1 remaining Health is: 90
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 30
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:38:54 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:38:55 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 94
+jason's strength is: 10
+jason has taken: -4 damage from Player 2
+Player's 1 remaining Health is: 94
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 60
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:38:57 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 88
+jason's strength is: 10
+jason has taken: -6 damage from Player 2
+Player's 1 remaining Health is: 88
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 50
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:38:58 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 80
+jason's strength is: 10
+jason has taken: -8 damage from Player 2
+Player's 1 remaining Health is: 80
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 40
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:38:59 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 70
+jason's strength is: 10
+jason has taken: -10 damage from Player 2
+Player's 1 remaining Health is: 70
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 30
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:39:00 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 58
+jason's strength is: 10
+jason has taken: -12 damage from Player 2
+Player's 1 remaining Health is: 58
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 20
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:39:01 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 44
+jason's strength is: 10
+jason has taken: -14 damage from Player 2
+Player's 1 remaining Health is: 44
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 10
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:39:01 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 28
+jason's strength is: 10
+jason has taken: -16 damage from Player 2
+Player's 1 remaining Health is: 28
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 0
+Player 1 Wins!
+
+************Beginning of Game Log at 12/18/2024 11:39:02 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 10
+jason's strength is: 10
+jason has taken: -18 damage from Player 2
+Player's 1 remaining Health is: 10
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has -10
+Player 1 Wins!
+
+************Beginning of Game Log at 12/18/2024 11:39:33 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 1
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 1 damage to Player 2!
+Player 2 has 79
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:39:34 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 96
+jason's strength is: 1
+jason has taken: -4 damage from Player 2
+Player's 1 remaining Health is: 96
+
+Player 1 dealt 1 damage to Player 2!
+Player 2 has 78
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:39:35 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 94
+jason's strength is: 1
+jason has taken: -6 damage from Player 2
+Player's 1 remaining Health is: 94
+
+Player 1 dealt 1 damage to Player 2!
+Player 2 has 77
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:39:36 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 92
+jason's strength is: 1
+jason has taken: -8 damage from Player 2
+Player's 1 remaining Health is: 92
+
+Player 1 dealt 1 damage to Player 2!
+Player 2 has 76
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:39:37 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 90
+jason's strength is: 1
+jason has taken: -10 damage from Player 2
+Player's 1 remaining Health is: 90
+
+Player 1 dealt 1 damage to Player 2!
+Player 2 has 75
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:39:38 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 88
+jason's strength is: 1
+jason has taken: -12 damage from Player 2
+Player's 1 remaining Health is: 88
+
+Player 1 dealt 1 damage to Player 2!
+Player 2 has 74
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:39:41 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD STRENGTH
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason's health is: 76
+jason's strength is: 21
+jason has taken: -24 damage from Player 2
+Player's 1 remaining Health is: 76
+
+Player 1 dealt 21 damage to Player 2!
+Player 2 has 53
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:39:42 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD STRENGTH
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason's health is: 64
+jason's strength is: 21
+jason has taken: -36 damage from Player 2
+Player's 1 remaining Health is: 64
+
+Player 1 dealt 21 damage to Player 2!
+Player 2 has 32
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:39:43 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD STRENGTH
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason's health is: 52
+jason's strength is: 21
+jason has taken: -48 damage from Player 2
+Player's 1 remaining Health is: 52
+
+Player 1 dealt 21 damage to Player 2!
+Player 2 has 11
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:39:53 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD STRENGTH
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason's health is: 40
+jason's strength is: 21
+jason has taken: -60 damage from Player 2
+Player's 1 remaining Health is: 40
+
+Player 1 dealt 21 damage to Player 2!
+Player 2 has -10
+Player 1 Wins!
+
+************Beginning of Game Log at 12/18/2024 11:41:23 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:41:25 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 96
+jason's strength is: 10
+jason has taken: -4 damage from Player 2
+Player's 1 remaining Health is: 96
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 60
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:41:26 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 94
+jason's strength is: 10
+jason has taken: -6 damage from Player 2
+Player's 1 remaining Health is: 94
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 50
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:41:30 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 92
+jason's strength is: 10
+jason has taken: -8 damage from Player 2
+Player's 1 remaining Health is: 92
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 40
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:41:32 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 90
+jason's strength is: 10
+jason has taken: -10 damage from Player 2
+Player's 1 remaining Health is: 90
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 30
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:41:33 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 88
+jason's strength is: 10
+jason has taken: -12 damage from Player 2
+Player's 1 remaining Health is: 88
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 20
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:41:33 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 86
+jason's strength is: 10
+jason has taken: -14 damage from Player 2
+Player's 1 remaining Health is: 86
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 10
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:41:34 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 84
+jason's strength is: 10
+jason has taken: -16 damage from Player 2
+Player's 1 remaining Health is: 84
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 0
+Player 1 Wins!
+
+************Beginning of Game Log at 12/18/2024 11:43:25 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:43:27 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 96
+jason's strength is: 10
+jason has taken: -4 damage from Player 2
+Player's 1 remaining Health is: 96
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 60 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:43:27 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 94
+jason's strength is: 10
+jason has taken: -6 damage from Player 2
+Player's 1 remaining Health is: 94
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 50 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:43:28 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 92
+jason's strength is: 10
+jason has taken: -8 damage from Player 2
+Player's 1 remaining Health is: 92
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 40 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:43:30 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 90
+jason's strength is: 10
+jason has taken: -10 damage from Player 2
+Player's 1 remaining Health is: 90
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 30 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:43:31 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 88
+jason's strength is: 10
+jason has taken: -12 damage from Player 2
+Player's 1 remaining Health is: 88
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 20 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:43:31 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 86
+jason's strength is: 10
+jason has taken: -14 damage from Player 2
+Player's 1 remaining Health is: 86
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 10 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:47:52 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:47:54 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 96
+jason's strength is: 10
+jason has taken: -4 damage from Player 2
+Player's 1 remaining Health is: 96
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 60 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:47:55 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 94
+jason's strength is: 10
+jason has taken: -6 damage from Player 2
+Player's 1 remaining Health is: 94
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 50 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:47:56 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 92
+jason's strength is: 10
+jason has taken: -8 damage from Player 2
+Player's 1 remaining Health is: 92
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 40 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:47:58 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 90
+jason's strength is: 10
+jason has taken: -10 damage from Player 2
+Player's 1 remaining Health is: 90
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 30 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:48:01 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 88
+jason's strength is: 10
+jason has taken: -12 damage from Player 2
+Player's 1 remaining Health is: 88
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 20 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:48:02 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 86
+jason's strength is: 10
+jason has taken: -14 damage from Player 2
+Player's 1 remaining Health is: 86
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 10 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:48:03 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 84
+jason's strength is: 10
+jason has taken: -16 damage from Player 2
+Player's 1 remaining Health is: 84
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 0 health remaining
+Player 1 Wins!
+
+************Beginning of Game Log at 12/18/2024 11:48:27 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:48:29 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 96
+jason's strength is: 10
+jason has taken: -4 damage from Player 2
+Player's 1 remaining Health is: 96
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 60 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:48:31 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 94
+jason's strength is: 10
+jason has taken: -6 damage from Player 2
+Player's 1 remaining Health is: 94
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 50 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:48:34 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD STRENGTH
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason's health is: 82
+jason's strength is: 30
+jason has taken: -18 damage from Player 2
+Player's 1 remaining Health is: 82
+
+Player 1 dealt 30 damage to Player 2!
+Player 2 has 20 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:48:35 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD STRENGTH
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason's health is: 70
+jason's strength is: 30
+jason has taken: -30 damage from Player 2
+Player's 1 remaining Health is: 70
+
+Player 1 dealt 30 damage to Player 2!
+Player 2 has -10 health remaining
+Player 1 Wins!
+
+************Beginning of Game Log at 12/18/2024 11:48:37 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD STRENGTH
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason's health is: 58
+jason's strength is: 30
+jason has taken: -42 damage from Player 2
+Player's 1 remaining Health is: 58
+
+Player 1 dealt 30 damage to Player 2!
+Player 2 has -40 health remaining
+Player 1 Wins!
+
+************Beginning of Game Log at 12/18/2024 11:49:45 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:50:06 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 96
+jason's strength is: 10
+jason has taken: -4 damage from Player 2
+Player's 1 remaining Health is: 96
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 60 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:50:07 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 94
+jason's strength is: 10
+jason has taken: -6 damage from Player 2
+Player's 1 remaining Health is: 94
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 50 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:50:09 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 92
+jason's strength is: 10
+jason has taken: -8 damage from Player 2
+Player's 1 remaining Health is: 92
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 40 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:50:10 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 90
+jason's strength is: 10
+jason has taken: -10 damage from Player 2
+Player's 1 remaining Health is: 90
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 30 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:50:11 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 88
+jason's strength is: 10
+jason has taken: -12 damage from Player 2
+Player's 1 remaining Health is: 88
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 20 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:50:14 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 86
+jason's strength is: 10
+jason has taken: -14 damage from Player 2
+Player's 1 remaining Health is: 86
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 10 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:50:17 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 84
+jason's strength is: 10
+jason has taken: -16 damage from Player 2
+Player's 1 remaining Health is: 84
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 0 health remaining
+Player 1 Wins!
+
+************Beginning of Game Log at 12/18/2024 11:51:59 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:52:00 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 96
+jason's strength is: 10
+jason has taken: -4 damage from Player 2
+Player's 1 remaining Health is: 96
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 60 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:52:51 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:52:53 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 96
+jason's strength is: 10
+jason has taken: -4 damage from Player 2
+Player's 1 remaining Health is: 96
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 60 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:52:54 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 94
+jason's strength is: 10
+jason has taken: -6 damage from Player 2
+Player's 1 remaining Health is: 94
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 50 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:52:55 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 92
+jason's strength is: 10
+jason has taken: -8 damage from Player 2
+Player's 1 remaining Health is: 92
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 40 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:52:56 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 90
+jason's strength is: 10
+jason has taken: -10 damage from Player 2
+Player's 1 remaining Health is: 90
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 30 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:52:58 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 88
+jason's strength is: 10
+jason has taken: -12 damage from Player 2
+Player's 1 remaining Health is: 88
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 20 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:52:59 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 86
+jason's strength is: 10
+jason has taken: -14 damage from Player 2
+Player's 1 remaining Health is: 86
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 10 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:53:00 AM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 84
+jason's strength is: 10
+jason has taken: -16 damage from Player 2
+Player's 1 remaining Health is: 84
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 0 health remaining
+Player 1 Wins!
+
+************Beginning of Game Log at 12/18/2024 11:53:12 AM************
+Player's 1 Name is: 
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+'s health is: 190
+'s strength is: 144
+ has taken: -138 damage from Player 2
+Player's 1 remaining Health is: 190
+
+Player 1 dealt 144 damage to Player 2!
+Player 2 has 57 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:53:17 AM************
+Player's 1 Name is: 
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+'s health is: 52
+'s strength is: 144
+ has taken: -276 damage from Player 2
+Player's 1 remaining Health is: 52
+
+Player 1 dealt 144 damage to Player 2!
+Player 2 has -87 health remaining
+Player 1 Wins!
+
+************Beginning of Game Log at 12/18/2024 11:53:34 AM************
+Player's 1 Name is: 
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+'s health is: -86
+'s strength is: 150
+ has taken: -101 damage from Player 2
+Player's 1 remaining Health is: -86
+
+Player 1 dealt 150 damage to Player 2!
+Player 2 has -21 health remaining
+It's a tie!
+
+************Beginning of Game Log at 12/18/2024 11:54:16 AM************
+Player's 1 Name is: jason 
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason 's health is: 98
+jason 's strength is: 10
+jason  has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:54:21 AM************
+Player's 1 Name is: jason 
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason 's health is: 96
+jason 's strength is: 10
+jason  has taken: -4 damage from Player 2
+Player's 1 remaining Health is: 96
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 60 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:54:22 AM************
+Player's 1 Name is: jason 
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason 's health is: 94
+jason 's strength is: 10
+jason  has taken: -6 damage from Player 2
+Player's 1 remaining Health is: 94
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 50 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:54:25 AM************
+Player's 1 Name is: jason 
+Power Up Selected: ADD STRENGTH
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason 's health is: 82
+jason 's strength is: 30
+jason  has taken: -18 damage from Player 2
+Player's 1 remaining Health is: 82
+
+Player 1 dealt 30 damage to Player 2!
+Player 2 has 20 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 11:54:26 AM************
+Player's 1 Name is: jason 
+Power Up Selected: ADD STRENGTH
+Power Up Amount (Health): 0
+Power Up Amount (Strength): 20
+jason 's health is: 70
+jason 's strength is: 30
+jason  has taken: -30 damage from Player 2
+Player's 1 remaining Health is: 70
+
+Player 1 dealt 30 damage to Player 2!
+Player 2 has -10 health remaining
+Player 1 Wins!
+
+************Beginning of Game Log at 12/18/2024 12:01:49 PM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 12:01:50 PM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 96
+jason's strength is: 10
+jason has taken: -4 damage from Player 2
+Player's 1 remaining Health is: 96
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 60 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 12:01:51 PM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 94
+jason's strength is: 10
+jason has taken: -6 damage from Player 2
+Player's 1 remaining Health is: 94
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 50 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 12:01:52 PM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 92
+jason's strength is: 10
+jason has taken: -8 damage from Player 2
+Player's 1 remaining Health is: 92
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 40 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 12:01:53 PM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 90
+jason's strength is: 10
+jason has taken: -10 damage from Player 2
+Player's 1 remaining Health is: 90
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 30 health remaining
+No one has won yet.
+
+************Beginning of Game Log at 12/18/2024 12:04:49 PM************
+Player's 1 Name is: jason
+Power Up Selected: ADD HEALTH
+Power Up Amount (Health): 10
+Power Up Amount (Strength): 0
+jason's health is: 98
+jason's strength is: 10
+jason has taken: -2 damage from Player 2
+Player's 1 remaining Health is: 98
+
+Player 1 dealt 10 damage to Player 2!
+Player 2 has 70 health remaining
+No one has won yet.
+

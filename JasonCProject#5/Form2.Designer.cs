@@ -42,22 +42,23 @@
             // lblHealth
             // 
             lblHealth.AutoSize = true;
-            lblHealth.Location = new Point(117, 95);
+            lblHealth.Location = new Point(112, 96);
             lblHealth.Name = "lblHealth";
-            lblHealth.Size = new Size(81, 15);
+            lblHealth.Size = new Size(165, 15);
             lblHealth.TabIndex = 0;
-            lblHealth.Text = "Health's Value";
+            lblHealth.Text = "Default Perk 1 Value (+Health)";
             lblHealth.Click += lblHealth_Click;
             // 
             // lblConfigSettings
             // 
             lblConfigSettings.AutoSize = true;
             lblConfigSettings.Font = new Font("Segoe UI", 12F, FontStyle.Bold | FontStyle.Underline, GraphicsUnit.Point, 0);
-            lblConfigSettings.Location = new Point(172, 29);
+            lblConfigSettings.Location = new Point(97, 29);
             lblConfigSettings.Name = "lblConfigSettings";
-            lblConfigSettings.Size = new Size(183, 21);
+            lblConfigSettings.Size = new Size(318, 21);
             lblConfigSettings.TabIndex = 1;
-            lblConfigSettings.Text = "Configuration Settings";
+            lblConfigSettings.Text = "Power Up Value's Configuration Settings";
+            lblConfigSettings.Click += lblConfigSettings_Click;
             // 
             // label3
             // 
@@ -69,14 +70,14 @@
             // 
             // txtHealthValue
             // 
-            txtHealthValue.Location = new Point(213, 87);
+            txtHealthValue.Location = new Point(293, 88);
             txtHealthValue.Name = "txtHealthValue";
             txtHealthValue.Size = new Size(100, 23);
             txtHealthValue.TabIndex = 3;
             // 
             // txtStrengthValue
             // 
-            txtStrengthValue.Location = new Point(213, 135);
+            txtStrengthValue.Location = new Point(293, 136);
             txtStrengthValue.Name = "txtStrengthValue";
             txtStrengthValue.Size = new Size(100, 23);
             txtStrengthValue.TabIndex = 5;
@@ -84,15 +85,15 @@
             // lblStrength
             // 
             lblStrength.AutoSize = true;
-            lblStrength.Location = new Point(107, 143);
+            lblStrength.Location = new Point(101, 141);
             lblStrength.Name = "lblStrength";
-            lblStrength.Size = new Size(91, 15);
+            lblStrength.Size = new Size(175, 15);
             lblStrength.TabIndex = 4;
-            lblStrength.Text = "Strength's Value";
+            lblStrength.Text = "Default Perk 2 Value (+Strength)";
             // 
             // txtNormalValue
             // 
-            txtNormalValue.Location = new Point(213, 183);
+            txtNormalValue.Location = new Point(293, 184);
             txtNormalValue.Name = "txtNormalValue";
             txtNormalValue.Size = new Size(100, 23);
             txtNormalValue.TabIndex = 7;
@@ -100,11 +101,11 @@
             // lblNormal
             // 
             lblNormal.AutoSize = true;
-            lblNormal.Location = new Point(112, 191);
+            lblNormal.Location = new Point(112, 187);
             lblNormal.Name = "lblNormal";
-            lblNormal.Size = new Size(86, 15);
+            lblNormal.Size = new Size(165, 15);
             lblNormal.TabIndex = 6;
-            lblNormal.Text = "Normal's Value";
+            lblNormal.Text = "Default Perk 3 Value (Normal) ";
             // 
             // btnSetReturn
             // 
@@ -131,7 +132,7 @@
             Controls.Add(lblConfigSettings);
             Controls.Add(lblHealth);
             Name = "Form2";
-            Text = "Game's Settings";
+            Text = "Form 2 - Jason Chen";
             ResumeLayout(false);
             PerformLayout();
         }
